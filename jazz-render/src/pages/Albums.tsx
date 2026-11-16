@@ -14,8 +14,7 @@ export default function Albums() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // Ensure your Express server is running on port 3000
-    fetch("http://localhost:3000/api/albums")
+    fetch("/api/albums")
       .then((res) => res.json())
       .then((data) => {
         setAlbums(data);

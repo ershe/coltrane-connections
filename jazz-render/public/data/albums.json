@@ -1,0 +1,3032 @@
+[
+  {
+    "id": 158,
+    "discogs_release_id": 32331063,
+    "discogs_master_id": null,
+    "title": "Standard Jazz Collection",
+    "release_year": null,
+    "label": "Nihon Audio Co., Ltd.",
+    "catalog_number": "MZC-1007",
+    "is_leader": 1
+  },
+  {
+    "id": 159,
+    "discogs_release_id": 37268811,
+    "discogs_master_id": null,
+    "title": "Ballads And More",
+    "release_year": null,
+    "label": "Prestige",
+    "catalog_number": "VICJ-60524",
+    "is_leader": 1
+  },
+  {
+    "id": 294,
+    "discogs_release_id": 3550499,
+    "discogs_master_id": null,
+    "title": "Rare",
+    "release_year": null,
+    "label": "Duke Records (4)",
+    "catalog_number": "D-1016",
+    "is_leader": 0
+  },
+  {
+    "id": 295,
+    "discogs_release_id": 4988425,
+    "discogs_master_id": null,
+    "title": "Jazz Track",
+    "release_year": null,
+    "label": "Fontana",
+    "catalog_number": "662 042 TR",
+    "is_leader": 0
+  },
+  {
+    "id": 296,
+    "discogs_release_id": 8449874,
+    "discogs_master_id": null,
+    "title": "Caravan",
+    "release_year": null,
+    "label": "Not On Label",
+    "catalog_number": "SAXCD01",
+    "is_leader": 0
+  },
+  {
+    "id": 297,
+    "discogs_release_id": 16900440,
+    "discogs_master_id": null,
+    "title": "Clarinettologia",
+    "release_year": null,
+    "label": "Real Sound",
+    "catalog_number": "CBR 1110",
+    "is_leader": 0
+  },
+  {
+    "id": 298,
+    "discogs_release_id": 37321383,
+    "discogs_master_id": null,
+    "title": "Workin' With The Miles Davis Quintet",
+    "release_year": null,
+    "label": "Original Jazz Classics",
+    "catalog_number": "OJCCD-296-2",
+    "is_leader": 0
+  },
+  {
+    "id": 299,
+    "discogs_release_id": 38955932,
+    "discogs_master_id": null,
+    "title": "The John Coltrane Quartet Plays",
+    "release_year": null,
+    "label": "MCA Records",
+    "catalog_number": "MCAC-29018",
+    "is_leader": 0
+  },
+  {
+    "id": 300,
+    "discogs_release_id": 9448164,
+    "discogs_master_id": 905022,
+    "title": "Velvet Sunset / Linger Awhile",
+    "release_year": null,
+    "label": "Vogue Records",
+    "catalog_number": "V2169",
+    "is_leader": 0
+  },
+  {
+    "id": 301,
+    "discogs_release_id": 9748448,
+    "discogs_master_id": 1134703,
+    "title": "Earl Bostic And His Alto Sax",
+    "release_year": null,
+    "label": "Parlophone",
+    "catalog_number": "PMD1016",
+    "is_leader": 0
+  },
+  {
+    "id": 302,
+    "discogs_release_id": 22672511,
+    "discogs_master_id": 2569826,
+    "title": "Coast To Coast / Oo-la-la",
+    "release_year": null,
+    "label": "Telefunken Capitol",
+    "catalog_number": "450",
+    "is_leader": 0
+  },
+  {
+    "id": 303,
+    "discogs_release_id": 9031997,
+    "discogs_master_id": 1105540,
+    "title": "Smoke Gets In Your Eyes / For You",
+    "release_year": null,
+    "label": "Omega (2)",
+    "catalog_number": "78.632",
+    "is_leader": 0
+  },
+  {
+    "id": 160,
+    "discogs_release_id": 19624969,
+    "discogs_master_id": 1161958,
+    "title": "Say When / You Stole My Wife - You Horse Thief",
+    "release_year": 1949,
+    "label": "Capitol Records",
+    "catalog_number": "797",
+    "is_leader": 0
+  },
+  {
+    "id": 161,
+    "discogs_release_id": 14669433,
+    "discogs_master_id": 3142527,
+    "title": "Tally-Ho / I Can't Remember",
+    "release_year": 1950,
+    "label": "Capitol Records",
+    "catalog_number": "839",
+    "is_leader": 0
+  },
+  {
+    "id": 162,
+    "discogs_release_id": 5207893,
+    "discogs_master_id": 772674,
+    "title": "Tin Tin Daeo / Birks Works",
+    "release_year": 1951,
+    "label": "Dee Gee",
+    "catalog_number": "3600",
+    "is_leader": 0
+  },
+  {
+    "id": 163,
+    "discogs_release_id": 7762808,
+    "discogs_master_id": null,
+    "title": "Easy Rockin' / G. C. Rock",
+    "release_year": 1952,
+    "label": "Republic (3)",
+    "catalog_number": "7027",
+    "is_leader": 0
+  },
+  {
+    "id": 164,
+    "discogs_release_id": 7632296,
+    "discogs_master_id": 1461304,
+    "title": "Linger Awhile / Lover Come Back To Me",
+    "release_year": 1952,
+    "label": "Vogue Productions",
+    "catalog_number": "V. 3123",
+    "is_leader": 0
+  },
+  {
+    "id": 165,
+    "discogs_release_id": 9247629,
+    "discogs_master_id": 710539,
+    "title": "You Go To My Head / The Hour Of Parting",
+    "release_year": 1952,
+    "label": "Omega (2)",
+    "catalog_number": "78.629",
+    "is_leader": 0
+  },
+  {
+    "id": 166,
+    "discogs_release_id": 9166464,
+    "discogs_master_id": 1104603,
+    "title": "Moonglow / Ain't Misbehavin'",
+    "release_year": 1952,
+    "label": "Vogue Records",
+    "catalog_number": "V.2148",
+    "is_leader": 0
+  },
+  {
+    "id": 167,
+    "discogs_release_id": 4579722,
+    "discogs_master_id": 1432590,
+    "title": "Dizzy Gillespie",
+    "release_year": 1952,
+    "label": "Dee Gee",
+    "catalog_number": "LP-1000",
+    "is_leader": 0
+  },
+  {
+    "id": 168,
+    "discogs_release_id": 9200699,
+    "discogs_master_id": null,
+    "title": "Ham Hocks And Hominy / Strange Things All The Rage",
+    "release_year": 1953,
+    "label": "Nestor Records (3)",
+    "catalog_number": "JG-06",
+    "is_leader": 0
+  },
+  {
+    "id": 169,
+    "discogs_release_id": 23134895,
+    "discogs_master_id": 730514,
+    "title": "Earl Bostic His Alto Sax And His Orchestra",
+    "release_year": 1953,
+    "label": "Vogue",
+    "catalog_number": "L.D. 110",
+    "is_leader": 0
+  },
+  {
+    "id": 170,
+    "discogs_release_id": 10419596,
+    "discogs_master_id": 1193536,
+    "title": "Sweet As Bear Meat / Skokiaan",
+    "release_year": 1954,
+    "label": "Norgran Records",
+    "catalog_number": "124",
+    "is_leader": 0
+  },
+  {
+    "id": 1,
+    "discogs_release_id": 5494744,
+    "discogs_master_id": 270900,
+    "title": "Interplay For 2 Trumpets And 2 Tenors",
+    "release_year": 1957,
+    "label": "Prestige",
+    "catalog_number": "7112",
+    "is_leader": 1
+  },
+  {
+    "id": 2,
+    "discogs_release_id": 5494600,
+    "discogs_master_id": 664841,
+    "title": "Mal/2",
+    "release_year": 1957,
+    "label": "Prestige",
+    "catalog_number": "7111",
+    "is_leader": 1
+  },
+  {
+    "id": 3,
+    "discogs_release_id": 3016396,
+    "discogs_master_id": 75907,
+    "title": "Coltrane",
+    "release_year": 1957,
+    "label": "Prestige",
+    "catalog_number": "PRLP 7105",
+    "is_leader": 1
+  },
+  {
+    "id": 4,
+    "discogs_release_id": 2922014,
+    "discogs_master_id": 313937,
+    "title": "Mating Call",
+    "release_year": 1957,
+    "label": "Prestige",
+    "catalog_number": "LP 7070",
+    "is_leader": 1
+  },
+  {
+    "id": 5,
+    "discogs_release_id": 843266,
+    "discogs_master_id": 62778,
+    "title": "Tenor Conclave",
+    "release_year": 1957,
+    "label": "Prestige",
+    "catalog_number": "LP 7074",
+    "is_leader": 1
+  },
+  {
+    "id": 171,
+    "discogs_release_id": 1157990,
+    "discogs_master_id": 9130,
+    "title": "'Round About Midnight",
+    "release_year": 1957,
+    "label": "Columbia",
+    "catalog_number": "CL 949",
+    "is_leader": 0
+  },
+  {
+    "id": 172,
+    "discogs_release_id": 5615716,
+    "discogs_master_id": 534274,
+    "title": "Taylor's Wailers",
+    "release_year": 1957,
+    "label": "Prestige",
+    "catalog_number": "7117",
+    "is_leader": 0
+  },
+  {
+    "id": 173,
+    "discogs_release_id": 3382315,
+    "discogs_master_id": 248009,
+    "title": "A Blowing Session",
+    "release_year": 1957,
+    "label": "Blue Note",
+    "catalog_number": "BLP 1559",
+    "is_leader": 0
+  },
+  {
+    "id": 174,
+    "discogs_release_id": 4234199,
+    "discogs_master_id": 403686,
+    "title": "School Days",
+    "release_year": 1957,
+    "label": "Regent",
+    "catalog_number": "MG 6043",
+    "is_leader": 0
+  },
+  {
+    "id": 175,
+    "discogs_release_id": 8830676,
+    "discogs_master_id": 233663,
+    "title": "Thelonious Himself",
+    "release_year": 1957,
+    "label": "Riverside Records",
+    "catalog_number": "RLP 12-235",
+    "is_leader": 0
+  },
+  {
+    "id": 176,
+    "discogs_release_id": 3384826,
+    "discogs_master_id": 186445,
+    "title": "Whims Of Chambers",
+    "release_year": 1957,
+    "label": "Blue Note",
+    "catalog_number": "BLP 1534",
+    "is_leader": 0
+  },
+  {
+    "id": 6,
+    "discogs_release_id": 25699345,
+    "discogs_master_id": 344702,
+    "title": "The Ray Draper Quintet Featuring John Coltrane",
+    "release_year": 1958,
+    "label": "New Jazz",
+    "catalog_number": "8228",
+    "is_leader": 1
+  },
+  {
+    "id": 7,
+    "discogs_release_id": 11542125,
+    "discogs_master_id": 313950,
+    "title": "Mainstream 1958",
+    "release_year": 1958,
+    "label": "Savoy Records",
+    "catalog_number": "MG 12127",
+    "is_leader": 1
+  },
+  {
+    "id": 8,
+    "discogs_release_id": 5755608,
+    "discogs_master_id": 470042,
+    "title": "Wheelin' & Dealin'",
+    "release_year": 1958,
+    "label": "Prestige",
+    "catalog_number": "7131",
+    "is_leader": 1
+  },
+  {
+    "id": 10,
+    "discogs_release_id": 24840110,
+    "discogs_master_id": 37307,
+    "title": "Soultrane",
+    "release_year": 1958,
+    "label": "Prestige",
+    "catalog_number": "7142",
+    "is_leader": 1
+  },
+  {
+    "id": 12,
+    "discogs_release_id": 11786823,
+    "discogs_master_id": 32208,
+    "title": "Blue Train",
+    "release_year": 1958,
+    "label": "Blue Note",
+    "catalog_number": "BLP 1577",
+    "is_leader": 1
+  },
+  {
+    "id": 13,
+    "discogs_release_id": 5775475,
+    "discogs_master_id": 32404,
+    "title": "John Coltrane With The Red Garland Trio",
+    "release_year": 1958,
+    "label": "Prestige",
+    "catalog_number": "7123",
+    "is_leader": 1
+  },
+  {
+    "id": 177,
+    "discogs_release_id": 9861658,
+    "discogs_master_id": null,
+    "title": "Modern Jazz Survey 2 / Baritones & French Horns",
+    "release_year": 1958,
+    "label": "Prestige",
+    "catalog_number": "PRESTIGE 6",
+    "is_leader": 0
+  },
+  {
+    "id": 178,
+    "discogs_release_id": 6262886,
+    "discogs_master_id": 208352,
+    "title": "Relaxin' With The Miles Davis Quintet",
+    "release_year": 1958,
+    "label": "Prestige",
+    "catalog_number": "PRLP 7129",
+    "is_leader": 0
+  },
+  {
+    "id": 179,
+    "discogs_release_id": 2044787,
+    "discogs_master_id": 218694,
+    "title": "Sonny's Crib",
+    "release_year": 1958,
+    "label": "Blue Note",
+    "catalog_number": "BLP 1576",
+    "is_leader": 0
+  },
+  {
+    "id": 180,
+    "discogs_release_id": 2830960,
+    "discogs_master_id": 334768,
+    "title": "Legrand Jazz",
+    "release_year": 1958,
+    "label": "Columbia",
+    "catalog_number": "CS 8079",
+    "is_leader": 0
+  },
+  {
+    "id": 181,
+    "discogs_release_id": 2562403,
+    "discogs_master_id": 65089,
+    "title": "Milestones",
+    "release_year": 1958,
+    "label": "Columbia",
+    "catalog_number": "CL 1193",
+    "is_leader": 0
+  },
+  {
+    "id": 14,
+    "discogs_release_id": 3818640,
+    "discogs_master_id": 166315,
+    "title": "Cattin' With Coltrane And Quinichette",
+    "release_year": 1959,
+    "label": "Prestige",
+    "catalog_number": "7158",
+    "is_leader": 1
+  },
+  {
+    "id": 15,
+    "discogs_release_id": 4134165,
+    "discogs_master_id": 442058,
+    "title": "The Cats",
+    "release_year": 1959,
+    "label": "New Jazz",
+    "catalog_number": "NJLP 8217",
+    "is_leader": 1
+  },
+  {
+    "id": 182,
+    "discogs_release_id": 6276183,
+    "discogs_master_id": 5460,
+    "title": "Kind Of Blue",
+    "release_year": 1959,
+    "label": "Columbia",
+    "catalog_number": "CL 1355",
+    "is_leader": 0
+  },
+  {
+    "id": 183,
+    "discogs_release_id": 4886081,
+    "discogs_master_id": 350071,
+    "title": "New York, N.Y.",
+    "release_year": 1959,
+    "label": "Decca",
+    "catalog_number": "DL 9216",
+    "is_leader": 0
+  },
+  {
+    "id": 184,
+    "discogs_release_id": 511939,
+    "discogs_master_id": 64705,
+    "title": "Jazz Track",
+    "release_year": 1959,
+    "label": "Columbia",
+    "catalog_number": "CL 1268",
+    "is_leader": 0
+  },
+  {
+    "id": 16,
+    "discogs_release_id": 1620417,
+    "discogs_master_id": 279080,
+    "title": "Chambers' Music",
+    "release_year": 1960,
+    "label": "Sonet",
+    "catalog_number": "SLP-28",
+    "is_leader": 1
+  },
+  {
+    "id": 18,
+    "discogs_release_id": 2155244,
+    "discogs_master_id": 32236,
+    "title": "Giant Steps",
+    "release_year": 1960,
+    "label": "Atlantic",
+    "catalog_number": "1311",
+    "is_leader": 1
+  },
+  {
+    "id": 19,
+    "discogs_release_id": 2943101,
+    "discogs_master_id": 179717,
+    "title": "Soul Junction",
+    "release_year": 1960,
+    "label": "Prestige",
+    "catalog_number": "PRLP 7181",
+    "is_leader": 1
+  },
+  {
+    "id": 20,
+    "discogs_release_id": 4966856,
+    "discogs_master_id": 344704,
+    "title": "John Coltrane In The Winner's Circle",
+    "release_year": 1961,
+    "label": "Bethlehem Records",
+    "catalog_number": "BCP-6066",
+    "is_leader": 1
+  },
+  {
+    "id": 22,
+    "discogs_release_id": 2062892,
+    "discogs_master_id": 75869,
+    "title": "Thelonious Monk With John Coltrane",
+    "release_year": 1961,
+    "label": "Jazzland",
+    "catalog_number": "JLP-46",
+    "is_leader": 1
+  },
+  {
+    "id": 23,
+    "discogs_release_id": 4941040,
+    "discogs_master_id": 75879,
+    "title": "Lush Life",
+    "release_year": 1961,
+    "label": "Prestige",
+    "catalog_number": "7188",
+    "is_leader": 1
+  },
+  {
+    "id": 24,
+    "discogs_release_id": 5221321,
+    "discogs_master_id": 166314,
+    "title": "Settin' The Pace",
+    "release_year": 1961,
+    "label": "Prestige",
+    "catalog_number": "PR 7213",
+    "is_leader": 1
+  },
+  {
+    "id": 25,
+    "discogs_release_id": 645553,
+    "discogs_master_id": 166316,
+    "title": "Coltrane Jazz",
+    "release_year": 1961,
+    "label": "Atlantic",
+    "catalog_number": "1354",
+    "is_leader": 1
+  },
+  {
+    "id": 26,
+    "discogs_release_id": 3767934,
+    "discogs_master_id": 481619,
+    "title": "High Pressure",
+    "release_year": 1961,
+    "label": "Prestige",
+    "catalog_number": "PRLP 7209",
+    "is_leader": 1
+  },
+  {
+    "id": 27,
+    "discogs_release_id": 3051133,
+    "discogs_master_id": 32248,
+    "title": "Bags & Trane",
+    "release_year": 1961,
+    "label": "Atlantic",
+    "catalog_number": "1368",
+    "is_leader": 1
+  },
+  {
+    "id": 28,
+    "discogs_release_id": 13040821,
+    "discogs_master_id": 32265,
+    "title": "My Favorite Things",
+    "release_year": 1961,
+    "label": "Atlantic",
+    "catalog_number": "1361",
+    "is_leader": 1
+  },
+  {
+    "id": 29,
+    "discogs_release_id": 4666576,
+    "discogs_master_id": 32318,
+    "title": "Ol\u00e9 Coltrane",
+    "release_year": 1961,
+    "label": "Atlantic",
+    "catalog_number": "SD 1373",
+    "is_leader": 1
+  },
+  {
+    "id": 185,
+    "discogs_release_id": 1488139,
+    "discogs_master_id": 65597,
+    "title": "Steamin' With The Miles Davis Quintet",
+    "release_year": 1961,
+    "label": "Prestige",
+    "catalog_number": "7200",
+    "is_leader": 0
+  },
+  {
+    "id": 186,
+    "discogs_release_id": 7009944,
+    "discogs_master_id": 531412,
+    "title": "Groove Blues",
+    "release_year": 1961,
+    "label": "Prestige",
+    "catalog_number": "PR 7201",
+    "is_leader": 0
+  },
+  {
+    "id": 187,
+    "discogs_release_id": 1494113,
+    "discogs_master_id": 122262,
+    "title": "Someday My Prince Will Come",
+    "release_year": 1961,
+    "label": "Columbia",
+    "catalog_number": "CL 1656",
+    "is_leader": 0
+  },
+  {
+    "id": 30,
+    "discogs_release_id": 420091,
+    "discogs_master_id": 75660,
+    "title": "Coltrane Plays The Blues",
+    "release_year": 1962,
+    "label": "Atlantic",
+    "catalog_number": "1382",
+    "is_leader": 1
+  },
+  {
+    "id": 31,
+    "discogs_release_id": 3051234,
+    "discogs_master_id": 75686,
+    "title": "Standard Coltrane",
+    "release_year": 1962,
+    "label": "Prestige",
+    "catalog_number": "PR 7243",
+    "is_leader": 1
+  },
+  {
+    "id": 32,
+    "discogs_release_id": 7932113,
+    "discogs_master_id": 75702,
+    "title": "\"Live\" At The Village Vanguard",
+    "release_year": 1962,
+    "label": "Impulse!",
+    "catalog_number": "A-10-S",
+    "is_leader": 1
+  },
+  {
+    "id": 33,
+    "discogs_release_id": 2945850,
+    "discogs_master_id": 356194,
+    "title": "Dig It!",
+    "release_year": 1962,
+    "label": "Prestige",
+    "catalog_number": "PR 7229",
+    "is_leader": 1
+  },
+  {
+    "id": 36,
+    "discogs_release_id": 5487178,
+    "discogs_master_id": 75948,
+    "title": "Dakar",
+    "release_year": 1963,
+    "label": "Prestige",
+    "catalog_number": "PRLP 7280",
+    "is_leader": 1
+  },
+  {
+    "id": 37,
+    "discogs_release_id": 4709678,
+    "discogs_master_id": 166321,
+    "title": "Stardust",
+    "release_year": 1963,
+    "label": "Prestige",
+    "catalog_number": "PR 7268",
+    "is_leader": 1
+  },
+  {
+    "id": 39,
+    "discogs_release_id": 3070310,
+    "discogs_master_id": 178716,
+    "title": "Kenny Burrell & John Coltrane",
+    "release_year": 1963,
+    "label": "New Jazz",
+    "catalog_number": "NJ 8276",
+    "is_leader": 1
+  },
+  {
+    "id": 40,
+    "discogs_release_id": 1203307,
+    "discogs_master_id": 32305,
+    "title": "Duke Ellington & John Coltrane",
+    "release_year": 1963,
+    "label": "Impulse!",
+    "catalog_number": "A-30",
+    "is_leader": 1
+  },
+  {
+    "id": 41,
+    "discogs_release_id": 1040069,
+    "discogs_master_id": 32328,
+    "title": "Impressions",
+    "release_year": 1963,
+    "label": "Impulse!",
+    "catalog_number": "A-42",
+    "is_leader": 1
+  },
+  {
+    "id": 42,
+    "discogs_release_id": 857442,
+    "discogs_master_id": 32342,
+    "title": "John Coltrane And Johnny Hartman",
+    "release_year": 1963,
+    "label": "Impulse!",
+    "catalog_number": "A-40",
+    "is_leader": 1
+  },
+  {
+    "id": 188,
+    "discogs_release_id": 14386998,
+    "discogs_master_id": 37346,
+    "title": "Ballads",
+    "release_year": 1963,
+    "label": "Impulse!",
+    "catalog_number": "A-32",
+    "is_leader": 0
+  },
+  {
+    "id": 9,
+    "discogs_release_id": 3019371,
+    "discogs_master_id": 291059,
+    "title": "All Mornin' Long",
+    "release_year": 1964,
+    "label": "Status Records (2)",
+    "catalog_number": "ST 7130",
+    "is_leader": 1
+  },
+  {
+    "id": 11,
+    "discogs_release_id": 880069,
+    "discogs_master_id": 62785,
+    "title": "Two Tenors",
+    "release_year": 1964,
+    "label": "Prestige",
+    "catalog_number": "PR 7043",
+    "is_leader": 1
+  },
+  {
+    "id": 44,
+    "discogs_release_id": 4037208,
+    "discogs_master_id": 75645,
+    "title": "Coltrane's Sound",
+    "release_year": 1964,
+    "label": "Atlantic",
+    "catalog_number": "SD 1419",
+    "is_leader": 1
+  },
+  {
+    "id": 45,
+    "discogs_release_id": 6516507,
+    "discogs_master_id": 199261,
+    "title": "The Believer",
+    "release_year": 1964,
+    "label": "Prestige",
+    "catalog_number": "PR 7292",
+    "is_leader": 1
+  },
+  {
+    "id": 47,
+    "discogs_release_id": 2007845,
+    "discogs_master_id": 32382,
+    "title": "Live At Birdland",
+    "release_year": 1964,
+    "label": "Impulse!",
+    "catalog_number": "AS-50",
+    "is_leader": 1
+  },
+  {
+    "id": 48,
+    "discogs_release_id": 3828091,
+    "discogs_master_id": 32419,
+    "title": "Black Pearls",
+    "release_year": 1964,
+    "label": "Prestige",
+    "catalog_number": "PR 7316",
+    "is_leader": 1
+  },
+  {
+    "id": 46,
+    "discogs_release_id": 6890747,
+    "discogs_master_id": 32287,
+    "title": "A Love Supreme",
+    "release_year": 1965,
+    "label": "Impulse!",
+    "catalog_number": "AS-77",
+    "is_leader": 1
+  },
+  {
+    "id": 49,
+    "discogs_release_id": 26690453,
+    "discogs_master_id": 166323,
+    "title": "The Last Trane",
+    "release_year": 1965,
+    "label": "Prestige",
+    "catalog_number": "PR 7378",
+    "is_leader": 1
+  },
+  {
+    "id": 50,
+    "discogs_release_id": 2161159,
+    "discogs_master_id": 313945,
+    "title": "Tanganyika Strut",
+    "release_year": 1965,
+    "label": "Realm",
+    "catalog_number": "RM 226",
+    "is_leader": 1
+  },
+  {
+    "id": 51,
+    "discogs_release_id": 3523255,
+    "discogs_master_id": 783273,
+    "title": "The Dealers",
+    "release_year": 1965,
+    "label": "Status Records (2)",
+    "catalog_number": "ST 8316",
+    "is_leader": 1
+  },
+  {
+    "id": 52,
+    "discogs_release_id": 3844785,
+    "discogs_master_id": 32353,
+    "title": "Bahia",
+    "release_year": 1965,
+    "label": "Prestige",
+    "catalog_number": "PR 7353",
+    "is_leader": 1
+  },
+  {
+    "id": 189,
+    "discogs_release_id": 2007863,
+    "discogs_master_id": 197994,
+    "title": "The John Coltrane Quartet Plays",
+    "release_year": 1965,
+    "label": "Impulse!",
+    "catalog_number": "AS-85",
+    "is_leader": 0
+  },
+  {
+    "id": 53,
+    "discogs_release_id": 890817,
+    "discogs_master_id": 33212,
+    "title": "Ascension (Edition II)",
+    "release_year": 1966,
+    "label": "Impulse!",
+    "catalog_number": "AS-95",
+    "is_leader": 1
+  },
+  {
+    "id": 54,
+    "discogs_release_id": 873311,
+    "discogs_master_id": 272048,
+    "title": "New Thing At Newport",
+    "release_year": 1966,
+    "label": "Impulse!",
+    "catalog_number": "A-94",
+    "is_leader": 1
+  },
+  {
+    "id": 55,
+    "discogs_release_id": 3459379,
+    "discogs_master_id": 75680,
+    "title": "Meditations",
+    "release_year": 1966,
+    "label": "Impulse!",
+    "catalog_number": "AS-9110",
+    "is_leader": 1
+  },
+  {
+    "id": 56,
+    "discogs_release_id": 466171,
+    "discogs_master_id": 75692,
+    "title": "Live At The Village Vanguard Again!",
+    "release_year": 1966,
+    "label": "Impulse!",
+    "catalog_number": "AS-9124",
+    "is_leader": 1
+  },
+  {
+    "id": 57,
+    "discogs_release_id": 8060159,
+    "discogs_master_id": 242177,
+    "title": "Tenor Madness",
+    "release_year": 1966,
+    "label": "Prestige",
+    "catalog_number": "MJ-7086",
+    "is_leader": 1
+  },
+  {
+    "id": 58,
+    "discogs_release_id": 5309538,
+    "discogs_master_id": 39901,
+    "title": "The Avant-Garde",
+    "release_year": 1966,
+    "label": "Atlantic",
+    "catalog_number": "SD 1451",
+    "is_leader": 1
+  },
+  {
+    "id": 59,
+    "discogs_release_id": 532432,
+    "discogs_master_id": 32364,
+    "title": "Ascension (Edition I)",
+    "release_year": 1966,
+    "label": "Impulse!",
+    "catalog_number": "AS-95",
+    "is_leader": 1
+  },
+  {
+    "id": 60,
+    "discogs_release_id": 4050175,
+    "discogs_master_id": 32372,
+    "title": "Kulu S\u00e9 Mama",
+    "release_year": 1967,
+    "label": "Impulse!",
+    "catalog_number": "A-9106",
+    "is_leader": 1
+  },
+  {
+    "id": 61,
+    "discogs_release_id": 1045223,
+    "discogs_master_id": 37222,
+    "title": "Expression",
+    "release_year": 1967,
+    "label": "Impulse!",
+    "catalog_number": "AS-9120",
+    "is_leader": 1
+  },
+  {
+    "id": 62,
+    "discogs_release_id": 8514755,
+    "discogs_master_id": 37246,
+    "title": "Om",
+    "release_year": 1967,
+    "label": "Impulse!",
+    "catalog_number": "AS-9140",
+    "is_leader": 1
+  },
+  {
+    "id": 63,
+    "discogs_release_id": 4030509,
+    "discogs_master_id": 120732,
+    "title": "Monk's Music",
+    "release_year": 1967,
+    "label": "Riverside Records",
+    "catalog_number": "RS 3004",
+    "is_leader": 1
+  },
+  {
+    "id": 64,
+    "discogs_release_id": 4293129,
+    "discogs_master_id": 65583,
+    "title": "Cookin' With The Miles Davis Quintet",
+    "release_year": 1968,
+    "label": "Prestige",
+    "catalog_number": "CPRX 240530",
+    "is_leader": 1
+  },
+  {
+    "id": 65,
+    "discogs_release_id": 2144499,
+    "discogs_master_id": 246904,
+    "title": "Miles At Newport",
+    "release_year": 1968,
+    "label": "CBS",
+    "catalog_number": "S 63417",
+    "is_leader": 1
+  },
+  {
+    "id": 66,
+    "discogs_release_id": 10346468,
+    "discogs_master_id": 75934,
+    "title": "Selflessness Featuring My Favorite Things",
+    "release_year": 1968,
+    "label": "Impulse!",
+    "catalog_number": "AS-9161",
+    "is_leader": 1
+  },
+  {
+    "id": 67,
+    "discogs_release_id": 2173436,
+    "discogs_master_id": 182523,
+    "title": "Cosmic Music",
+    "release_year": 1968,
+    "label": "Coltrane Recording Corporation",
+    "catalog_number": "AU-4950",
+    "is_leader": 1
+  },
+  {
+    "id": 68,
+    "discogs_release_id": 4770144,
+    "discogs_master_id": 160344,
+    "title": "Workin'",
+    "release_year": 1968,
+    "label": "Prestige",
+    "catalog_number": "CPRX 240 383 D",
+    "is_leader": 1
+  },
+  {
+    "id": 69,
+    "discogs_release_id": 13369117,
+    "discogs_master_id": 160345,
+    "title": "Soulin'",
+    "release_year": 1968,
+    "label": "Prestige",
+    "catalog_number": "CPRX 240 757",
+    "is_leader": 1
+  },
+  {
+    "id": 190,
+    "discogs_release_id": 1885283,
+    "discogs_master_id": 59543,
+    "title": "A Monastic Trio",
+    "release_year": 1968,
+    "label": "Impulse!",
+    "catalog_number": "A-9156",
+    "is_leader": 0
+  },
+  {
+    "id": 191,
+    "discogs_release_id": 3263381,
+    "discogs_master_id": 478085,
+    "title": "The Corporation",
+    "release_year": 1969,
+    "label": "Capitol Records",
+    "catalog_number": "ST 175",
+    "is_leader": 0
+  },
+  {
+    "id": 70,
+    "discogs_release_id": 1050137,
+    "discogs_master_id": 75725,
+    "title": "Transition",
+    "release_year": 1970,
+    "label": "Impulse!",
+    "catalog_number": "AS-9195",
+    "is_leader": 1
+  },
+  {
+    "id": 71,
+    "discogs_release_id": 380678,
+    "discogs_master_id": 75708,
+    "title": "Sun Ship",
+    "release_year": 1971,
+    "label": "Impulse!",
+    "catalog_number": "AS-9211",
+    "is_leader": 1
+  },
+  {
+    "id": 72,
+    "discogs_release_id": 30381764,
+    "discogs_master_id": 200017,
+    "title": "Live In Seattle",
+    "release_year": 1971,
+    "label": "Impulse!",
+    "catalog_number": "AS-9202-2",
+    "is_leader": 1
+  },
+  {
+    "id": 73,
+    "discogs_release_id": 1021745,
+    "discogs_master_id": 166319,
+    "title": "Infinity",
+    "release_year": 1972,
+    "label": "Impulse!",
+    "catalog_number": "AS-9225",
+    "is_leader": 1
+  },
+  {
+    "id": 74,
+    "discogs_release_id": 1354692,
+    "discogs_master_id": 618853,
+    "title": "Live In Paris Part 2",
+    "release_year": 1972,
+    "label": "BYG Records",
+    "catalog_number": "YX-2027",
+    "is_leader": 1
+  },
+  {
+    "id": 75,
+    "discogs_release_id": 981297,
+    "discogs_master_id": 618854,
+    "title": "Live In Paris Part 1",
+    "release_year": 1972,
+    "label": "BYG Records",
+    "catalog_number": "YX-2026",
+    "is_leader": 1
+  },
+  {
+    "id": 76,
+    "discogs_release_id": 6287794,
+    "discogs_master_id": 352344,
+    "title": "Coltranology",
+    "release_year": 1973,
+    "label": "BYG Records",
+    "catalog_number": "YX-2039",
+    "is_leader": 1
+  },
+  {
+    "id": 77,
+    "discogs_release_id": 13880845,
+    "discogs_master_id": 76015,
+    "title": "Live In Paris",
+    "release_year": 1973,
+    "label": "BYG Records",
+    "catalog_number": "YX-4001~2",
+    "is_leader": 1
+  },
+  {
+    "id": 78,
+    "discogs_release_id": 857632,
+    "discogs_master_id": 335446,
+    "title": "Concert In Japan",
+    "release_year": 1973,
+    "label": "Impulse!",
+    "catalog_number": "AS-9246-2",
+    "is_leader": 1
+  },
+  {
+    "id": 192,
+    "discogs_release_id": 3829781,
+    "discogs_master_id": 123223,
+    "title": "Jazz At The Plaza Vol. 1",
+    "release_year": 1973,
+    "label": "Columbia",
+    "catalog_number": "C 32470",
+    "is_leader": 0
+  },
+  {
+    "id": 79,
+    "discogs_release_id": 933890,
+    "discogs_master_id": 75755,
+    "title": "Interstellar Space",
+    "release_year": 1974,
+    "label": "ABC Impulse!",
+    "catalog_number": "ASD-9277",
+    "is_leader": 1
+  },
+  {
+    "id": 80,
+    "discogs_release_id": 6949803,
+    "discogs_master_id": 75967,
+    "title": "The Africa Brass Sessions, Vol. 2",
+    "release_year": 1974,
+    "label": "Impulse!",
+    "catalog_number": "AS-9273",
+    "is_leader": 1
+  },
+  {
+    "id": 38,
+    "discogs_release_id": 859340,
+    "discogs_master_id": 313934,
+    "title": "Dial Africa - 1958",
+    "release_year": 1975,
+    "label": "Musidisc",
+    "catalog_number": "30 JA 5158",
+    "is_leader": 1
+  },
+  {
+    "id": 81,
+    "discogs_release_id": 6717021,
+    "discogs_master_id": 224002,
+    "title": "Alternate Takes",
+    "release_year": 1975,
+    "label": "Atlantic",
+    "catalog_number": "SD 1668",
+    "is_leader": 1
+  },
+  {
+    "id": 82,
+    "discogs_release_id": 1052400,
+    "discogs_master_id": 91613,
+    "title": "Two Giants Together - Rare Live Performance 1962",
+    "release_year": 1976,
+    "label": "Musidisc",
+    "catalog_number": "30 JA 5184",
+    "is_leader": 1
+  },
+  {
+    "id": 83,
+    "discogs_release_id": 1406456,
+    "discogs_master_id": 75940,
+    "title": "Countdown",
+    "release_year": 1976,
+    "label": "Savoy Records",
+    "catalog_number": "SJL 2203",
+    "is_leader": 1
+  },
+  {
+    "id": 193,
+    "discogs_release_id": 471204,
+    "discogs_master_id": 230703,
+    "title": "The Return Of The 5000 Lb. Man",
+    "release_year": 1976,
+    "label": "Warner Bros. Records",
+    "catalog_number": "BS 2918",
+    "is_leader": 0
+  },
+  {
+    "id": 21,
+    "discogs_release_id": 574968,
+    "discogs_master_id": 75667,
+    "title": "Cannonball Adderley - John Coltrane",
+    "release_year": 1977,
+    "label": "AMIGA",
+    "catalog_number": "8 55 492",
+    "is_leader": 1
+  },
+  {
+    "id": 43,
+    "discogs_release_id": 380897,
+    "discogs_master_id": 123225,
+    "title": "Miles & Monk At Newport",
+    "release_year": 1977,
+    "label": "Columbia",
+    "catalog_number": "PC 8978",
+    "is_leader": 1
+  },
+  {
+    "id": 84,
+    "discogs_release_id": 12628739,
+    "discogs_master_id": null,
+    "title": "Afro Blue Impressions Vol 2",
+    "release_year": 1977,
+    "label": "Pablo Live",
+    "catalog_number": "2308 122",
+    "is_leader": 1
+  },
+  {
+    "id": 85,
+    "discogs_release_id": 795482,
+    "discogs_master_id": 75766,
+    "title": "Afro Blue Impressions",
+    "release_year": 1977,
+    "label": "Pablo Live",
+    "catalog_number": "2620 101",
+    "is_leader": 1
+  },
+  {
+    "id": 86,
+    "discogs_release_id": 372811,
+    "discogs_master_id": 75774,
+    "title": "First Meditations (For Quartet)",
+    "release_year": 1977,
+    "label": "ABC Impulse!",
+    "catalog_number": "AS-9332",
+    "is_leader": 1
+  },
+  {
+    "id": 87,
+    "discogs_release_id": 2195036,
+    "discogs_master_id": 223986,
+    "title": "The Other Village Vanguard Tapes",
+    "release_year": 1977,
+    "label": "ABC Impulse!",
+    "catalog_number": "AS-9325",
+    "is_leader": 1
+  },
+  {
+    "id": 88,
+    "discogs_release_id": 11179415,
+    "discogs_master_id": 1273005,
+    "title": "Mainstream 1958: The East Coast Jazz Scene Vol. 2",
+    "release_year": 1977,
+    "label": "Arista",
+    "catalog_number": "WAJ-70121",
+    "is_leader": 1
+  },
+  {
+    "id": 89,
+    "discogs_release_id": 2967545,
+    "discogs_master_id": 514095,
+    "title": "The Inner Man",
+    "release_year": 1977,
+    "label": "Vee Jay Records",
+    "catalog_number": "UXP-88-JY",
+    "is_leader": 1
+  },
+  {
+    "id": 90,
+    "discogs_release_id": 29014228,
+    "discogs_master_id": 392091,
+    "title": "The Big Sound",
+    "release_year": 1977,
+    "label": "Prestige",
+    "catalog_number": "VIJ-5031-M",
+    "is_leader": 1
+  },
+  {
+    "id": 194,
+    "discogs_release_id": 7118953,
+    "discogs_master_id": null,
+    "title": "Piano Vistas Unlimited",
+    "release_year": 1977,
+    "label": "Helicon",
+    "catalog_number": "HR 1001",
+    "is_leader": 0
+  },
+  {
+    "id": 92,
+    "discogs_release_id": 572141,
+    "discogs_master_id": 75992,
+    "title": "The Mastery Of John Coltrane / Vol. III \"Jupiter Variation\"",
+    "release_year": 1978,
+    "label": "ABC Impulse!",
+    "catalog_number": "IA-9360",
+    "is_leader": 1
+  },
+  {
+    "id": 93,
+    "discogs_release_id": 1141194,
+    "discogs_master_id": 546455,
+    "title": "Coltranology Volume Two",
+    "release_year": 1978,
+    "label": "Affinity",
+    "catalog_number": "AFF 16",
+    "is_leader": 1
+  },
+  {
+    "id": 94,
+    "discogs_release_id": 1762474,
+    "discogs_master_id": 335461,
+    "title": "The Mastery Of John Coltrane / Vol. I Feelin' Good",
+    "release_year": 1978,
+    "label": "ABC Impulse!",
+    "catalog_number": "IZ 9345/2",
+    "is_leader": 1
+  },
+  {
+    "id": 95,
+    "discogs_release_id": 3430057,
+    "discogs_master_id": 76011,
+    "title": "The Paris Concert",
+    "release_year": 1979,
+    "label": "Pablo Live",
+    "catalog_number": "2308 217",
+    "is_leader": 1
+  },
+  {
+    "id": 96,
+    "discogs_release_id": 2038404,
+    "discogs_master_id": 208048,
+    "title": "The Mastery Of John Coltrane / Vol. IV \"Trane's Modes\"",
+    "release_year": 1979,
+    "label": "ABC Impulse!",
+    "catalog_number": "IZ-9361/2",
+    "is_leader": 1
+  },
+  {
+    "id": 91,
+    "discogs_release_id": 2697810,
+    "discogs_master_id": 335452,
+    "title": "Coltrane In Tokyo Vol. 2",
+    "release_year": 1980,
+    "label": "MCA Records",
+    "catalog_number": "VIM-4630~31",
+    "is_leader": 1
+  },
+  {
+    "id": 97,
+    "discogs_release_id": 4447200,
+    "discogs_master_id": 570180,
+    "title": "Favorites",
+    "release_year": 1980,
+    "label": "Jazz Bird",
+    "catalog_number": "JAZ-2006",
+    "is_leader": 1
+  },
+  {
+    "id": 98,
+    "discogs_release_id": 1597058,
+    "discogs_master_id": 177619,
+    "title": "The European Tour",
+    "release_year": 1980,
+    "label": "Pablo Live",
+    "catalog_number": "2308-222",
+    "is_leader": 1
+  },
+  {
+    "id": 99,
+    "discogs_release_id": 2305098,
+    "discogs_master_id": 76004,
+    "title": "Bye Bye Blackbird",
+    "release_year": 1981,
+    "label": "Pablo Live",
+    "catalog_number": "2308-227",
+    "is_leader": 1
+  },
+  {
+    "id": 101,
+    "discogs_release_id": 8558692,
+    "discogs_master_id": 344699,
+    "title": "Reflections",
+    "release_year": 1982,
+    "label": "Chiaroscuro Records",
+    "catalog_number": "CR-2033",
+    "is_leader": 1
+  },
+  {
+    "id": 17,
+    "discogs_release_id": 694280,
+    "discogs_master_id": 208879,
+    "title": "Ain't Life Grand",
+    "release_year": 1983,
+    "label": "Affinity",
+    "catalog_number": "AFF 106",
+    "is_leader": 1
+  },
+  {
+    "id": 102,
+    "discogs_release_id": 9325508,
+    "discogs_master_id": 2891464,
+    "title": "Reflections, Vol. 2",
+    "release_year": 1983,
+    "label": "Chiaroscuro Records",
+    "catalog_number": "CR 2035",
+    "is_leader": 1
+  },
+  {
+    "id": 103,
+    "discogs_release_id": 1009426,
+    "discogs_master_id": 279094,
+    "title": "A Love Supreme",
+    "release_year": 1985,
+    "label": "Castle Pie",
+    "catalog_number": "PIESD 183",
+    "is_leader": 1
+  },
+  {
+    "id": 104,
+    "discogs_release_id": 6208352,
+    "discogs_master_id": 699971,
+    "title": "The Coltrane Legacy",
+    "release_year": 1985,
+    "label": "Video Artists International, Inc.",
+    "catalog_number": "69035",
+    "is_leader": 1
+  },
+  {
+    "id": 195,
+    "discogs_release_id": 4993525,
+    "discogs_master_id": 1453989,
+    "title": "A Man And His Music",
+    "release_year": 1985,
+    "label": "Storyville",
+    "catalog_number": "SLP 4073",
+    "is_leader": 0
+  },
+  {
+    "id": 196,
+    "discogs_release_id": 3719893,
+    "discogs_master_id": null,
+    "title": "Afrorera",
+    "release_year": 1985,
+    "label": "Red Record",
+    "catalog_number": "VPA 185",
+    "is_leader": 0
+  },
+  {
+    "id": 197,
+    "discogs_release_id": 5730860,
+    "discogs_master_id": null,
+    "title": "Zwiespalt",
+    "release_year": 1985,
+    "label": "Not On Label (Manfred Tappert Self-released)",
+    "catalog_number": "none",
+    "is_leader": 0
+  },
+  {
+    "id": 198,
+    "discogs_release_id": 6719777,
+    "discogs_master_id": 404232,
+    "title": "For Minors Only",
+    "release_year": 1986,
+    "label": "Th\u00e9sis Jazz",
+    "catalog_number": "THJ 82028",
+    "is_leader": 0
+  },
+  {
+    "id": 105,
+    "discogs_release_id": 11462610,
+    "discogs_master_id": 419361,
+    "title": "Live In New York",
+    "release_year": 1987,
+    "label": "Bandstand",
+    "catalog_number": "32JDB-133",
+    "is_leader": 1
+  },
+  {
+    "id": 199,
+    "discogs_release_id": 1193663,
+    "discogs_master_id": null,
+    "title": "Live In Paris 1961",
+    "release_year": 1987,
+    "label": "Jazzway",
+    "catalog_number": "LTM - 1503",
+    "is_leader": 0
+  },
+  {
+    "id": 200,
+    "discogs_release_id": 2279908,
+    "discogs_master_id": 615151,
+    "title": "All White People Look Alike",
+    "release_year": 1987,
+    "label": "Some Philharmonic Music",
+    "catalog_number": "SOME PHIL 2",
+    "is_leader": 0
+  },
+  {
+    "id": 106,
+    "discogs_release_id": 2593812,
+    "discogs_master_id": 463346,
+    "title": "Live In Antibes, 1965",
+    "release_year": 1988,
+    "label": "France's Concert",
+    "catalog_number": "FC 119",
+    "is_leader": 1
+  },
+  {
+    "id": 107,
+    "discogs_release_id": 4684517,
+    "discogs_master_id": 570110,
+    "title": "European Impressions",
+    "release_year": 1988,
+    "label": "Bandstand",
+    "catalog_number": "BDCD1514",
+    "is_leader": 1
+  },
+  {
+    "id": 108,
+    "discogs_release_id": 3109932,
+    "discogs_master_id": 1268575,
+    "title": "Miles Davis All Stars Featuring John Coltrane With Cannonball Adderley",
+    "release_year": 1988,
+    "label": "Jazz Band Records",
+    "catalog_number": "EB409",
+    "is_leader": 1
+  },
+  {
+    "id": 201,
+    "discogs_release_id": 33969756,
+    "discogs_master_id": null,
+    "title": "Benefit",
+    "release_year": 1988,
+    "label": "Fly By Night Sas",
+    "catalog_number": "CDFLY 1042",
+    "is_leader": 0
+  },
+  {
+    "id": 100,
+    "discogs_release_id": 3402720,
+    "discogs_master_id": 570099,
+    "title": "A Tuba Jazz",
+    "release_year": 1989,
+    "label": "Fresh Sound Records",
+    "catalog_number": "FSR-CD 20",
+    "is_leader": 1
+  },
+  {
+    "id": 109,
+    "discogs_release_id": 8757731,
+    "discogs_master_id": 512568,
+    "title": "Copenhagen 1960",
+    "release_year": 1989,
+    "label": "Royal Jazz",
+    "catalog_number": "RJ 501",
+    "is_leader": 1
+  },
+  {
+    "id": 110,
+    "discogs_release_id": 3967004,
+    "discogs_master_id": 848890,
+    "title": "Afro Blue",
+    "release_year": 1989,
+    "label": "Jazz & Jazz",
+    "catalog_number": "JJ-613",
+    "is_leader": 1
+  },
+  {
+    "id": 202,
+    "discogs_release_id": 3720256,
+    "discogs_master_id": 452549,
+    "title": "Weldon & The Kats",
+    "release_year": 1989,
+    "label": "Nodlew Music",
+    "catalog_number": "1003",
+    "is_leader": 0
+  },
+  {
+    "id": 203,
+    "discogs_release_id": 5347747,
+    "discogs_master_id": 404528,
+    "title": "Straight No Chaser (Music From The Motion Picture)",
+    "release_year": 1989,
+    "label": "Columbia",
+    "catalog_number": "CK 45358",
+    "is_leader": 0
+  },
+  {
+    "id": 112,
+    "discogs_release_id": 3109927,
+    "discogs_master_id": 1523187,
+    "title": "Miles Davis Live In 1958",
+    "release_year": 1990,
+    "label": "Jazz Band Records",
+    "catalog_number": "EB418",
+    "is_leader": 1
+  },
+  {
+    "id": 34,
+    "discogs_release_id": 461452,
+    "discogs_master_id": 274585,
+    "title": "Coltrane Time",
+    "release_year": 1991,
+    "label": "Blue Note",
+    "catalog_number": "CDP 7 84461 2",
+    "is_leader": 1
+  },
+  {
+    "id": 111,
+    "discogs_release_id": 14806345,
+    "discogs_master_id": 1397169,
+    "title": "The World According To John Coltrane",
+    "release_year": 1991,
+    "label": "BMG Video",
+    "catalog_number": "80067-6",
+    "is_leader": 1
+  },
+  {
+    "id": 113,
+    "discogs_release_id": 38254131,
+    "discogs_master_id": null,
+    "title": "Lush Life",
+    "release_year": 1991,
+    "label": "Prestige",
+    "catalog_number": "VICJ-23573",
+    "is_leader": 1
+  },
+  {
+    "id": 114,
+    "discogs_release_id": 34021011,
+    "discogs_master_id": 3851634,
+    "title": "Private Recordings & Curios. 1951 - 1958",
+    "release_year": 1991,
+    "label": "Recording Arts (3)",
+    "catalog_number": "JZMC 316",
+    "is_leader": 1
+  },
+  {
+    "id": 115,
+    "discogs_release_id": 35838625,
+    "discogs_master_id": 4058053,
+    "title": "Roy & Other Rarities ",
+    "release_year": 1991,
+    "label": "Recording Arts (3)",
+    "catalog_number": "JZMC 319",
+    "is_leader": 1
+  },
+  {
+    "id": 204,
+    "discogs_release_id": 6390573,
+    "discogs_master_id": 1229823,
+    "title": "Matchow\u00e9",
+    "release_year": 1991,
+    "label": "Buda Musique",
+    "catalog_number": "82814-2",
+    "is_leader": 0
+  },
+  {
+    "id": 205,
+    "discogs_release_id": 2632988,
+    "discogs_master_id": 624057,
+    "title": "Hearts Of Fire",
+    "release_year": 1991,
+    "label": "GRP",
+    "catalog_number": "GRD-9653",
+    "is_leader": 0
+  },
+  {
+    "id": 116,
+    "discogs_release_id": 10986878,
+    "discogs_master_id": null,
+    "title": "John Coltrane",
+    "release_year": 1992,
+    "label": "Toshiba EMI",
+    "catalog_number": "TOLW-3114",
+    "is_leader": 1
+  },
+  {
+    "id": 206,
+    "discogs_release_id": 37032387,
+    "discogs_master_id": null,
+    "title": "Dig It !",
+    "release_year": 1992,
+    "label": "Original Jazz Classics",
+    "catalog_number": "OJCCD-392-2 (P7229)",
+    "is_leader": 0
+  },
+  {
+    "id": 207,
+    "discogs_release_id": 1602402,
+    "discogs_master_id": 1451543,
+    "title": "Afrodisiac",
+    "release_year": 1992,
+    "label": "Zoo Entertainment",
+    "catalog_number": "72445-11035-2",
+    "is_leader": 0
+  },
+  {
+    "id": 208,
+    "discogs_release_id": 1925189,
+    "discogs_master_id": 220618,
+    "title": "Milagro",
+    "release_year": 1992,
+    "label": "Polydor",
+    "catalog_number": "513 197-2",
+    "is_leader": 0
+  },
+  {
+    "id": 117,
+    "discogs_release_id": 2556993,
+    "discogs_master_id": 763903,
+    "title": "Live At The Five Spot Discovery!",
+    "release_year": 1993,
+    "label": "Blue Note",
+    "catalog_number": "CDP 0777 7 99786 2 5",
+    "is_leader": 1
+  },
+  {
+    "id": 209,
+    "discogs_release_id": 118142,
+    "discogs_master_id": 62486,
+    "title": "Illuminate The Planet",
+    "release_year": 1993,
+    "label": "MFS",
+    "catalog_number": "323.7038.2 41",
+    "is_leader": 0
+  },
+  {
+    "id": 118,
+    "discogs_release_id": 4668633,
+    "discogs_master_id": 614510,
+    "title": "En Concert Avec Europe 1 - Olympia Mars \u2022 1960 - Octobre \u2022 1960",
+    "release_year": 1994,
+    "label": "Trema",
+    "catalog_number": "710455",
+    "is_leader": 1
+  },
+  {
+    "id": 210,
+    "discogs_release_id": 7568043,
+    "discogs_master_id": 1745729,
+    "title": "Reality Road",
+    "release_year": 1994,
+    "label": "Justice Records (2)",
+    "catalog_number": "JR 0403-2",
+    "is_leader": 0
+  },
+  {
+    "id": 211,
+    "discogs_release_id": 2582619,
+    "discogs_master_id": 7821,
+    "title": "Spirits",
+    "release_year": 1994,
+    "label": "TVT Records",
+    "catalog_number": "TVT 4310-2",
+    "is_leader": 0
+  },
+  {
+    "id": 120,
+    "discogs_release_id": 6559269,
+    "discogs_master_id": null,
+    "title": "Outtakes",
+    "release_year": 1995,
+    "label": "Rhino Records (2)",
+    "catalog_number": "R1 71984",
+    "is_leader": 1
+  },
+  {
+    "id": 121,
+    "discogs_release_id": 1172049,
+    "discogs_master_id": 75823,
+    "title": "Stellar Regions",
+    "release_year": 1995,
+    "label": "Impulse!",
+    "catalog_number": "IMP 169",
+    "is_leader": 1
+  },
+  {
+    "id": 122,
+    "discogs_release_id": 5600667,
+    "discogs_master_id": 676865,
+    "title": "Ralph Gleason's Jazz Casual",
+    "release_year": 1995,
+    "label": "Rhino Home Video",
+    "catalog_number": "R3 2581",
+    "is_leader": 1
+  },
+  {
+    "id": 212,
+    "discogs_release_id": 9299853,
+    "discogs_master_id": null,
+    "title": "Singing Naked",
+    "release_year": 1995,
+    "label": "ZSAN",
+    "catalog_number": "ZSAN 1002",
+    "is_leader": 0
+  },
+  {
+    "id": 213,
+    "discogs_release_id": 11034689,
+    "discogs_master_id": null,
+    "title": "Norrbotten Big Band",
+    "release_year": 1995,
+    "label": "Caprice Records",
+    "catalog_number": "CAP 21494",
+    "is_leader": 0
+  },
+  {
+    "id": 123,
+    "discogs_release_id": 37724355,
+    "discogs_master_id": null,
+    "title": "Mal/2",
+    "release_year": 1996,
+    "label": "Prestige",
+    "catalog_number": "VICJ 41178",
+    "is_leader": 1
+  },
+  {
+    "id": 124,
+    "discogs_release_id": 6942575,
+    "discogs_master_id": 844393,
+    "title": "The Complete Graz Concert",
+    "release_year": 1996,
+    "label": "Charly Records",
+    "catalog_number": "CPCD 8262-2",
+    "is_leader": 1
+  },
+  {
+    "id": 214,
+    "discogs_release_id": 26329292,
+    "discogs_master_id": null,
+    "title": "Workin' With The Miles Davis Quintet",
+    "release_year": 1996,
+    "label": "Analogue Productions",
+    "catalog_number": "PRLP 7166A3/B3",
+    "is_leader": 0
+  },
+  {
+    "id": 35,
+    "discogs_release_id": 370060,
+    "discogs_master_id": 37359,
+    "title": "Coltrane",
+    "release_year": 1997,
+    "label": "Impulse!",
+    "catalog_number": "IMP 12152",
+    "is_leader": 1
+  },
+  {
+    "id": 215,
+    "discogs_release_id": 9399151,
+    "discogs_master_id": null,
+    "title": "Intuition",
+    "release_year": 1997,
+    "label": "Lost Chart Records",
+    "catalog_number": "LC 1015",
+    "is_leader": 0
+  },
+  {
+    "id": 125,
+    "discogs_release_id": 1733132,
+    "discogs_master_id": 293362,
+    "title": "Living Space",
+    "release_year": 1998,
+    "label": "Impulse!",
+    "catalog_number": "IMPD-246",
+    "is_leader": 1
+  },
+  {
+    "id": 216,
+    "discogs_release_id": 5576055,
+    "discogs_master_id": null,
+    "title": "Chameleon",
+    "release_year": 1998,
+    "label": "Primarily A Cappella Records",
+    "catalog_number": "PAC9240",
+    "is_leader": 0
+  },
+  {
+    "id": 217,
+    "discogs_release_id": 9760649,
+    "discogs_master_id": null,
+    "title": "Flamenco Sketches",
+    "release_year": 1998,
+    "label": "Numoon Publishing Company, Inc.",
+    "catalog_number": "3464",
+    "is_leader": 0
+  },
+  {
+    "id": 218,
+    "discogs_release_id": 1687076,
+    "discogs_master_id": 73990,
+    "title": "Heavy Mental",
+    "release_year": 1998,
+    "label": "Geffen Records",
+    "catalog_number": "PRO-A2-1162",
+    "is_leader": 0
+  },
+  {
+    "id": 219,
+    "discogs_release_id": 2487841,
+    "discogs_master_id": 1573892,
+    "title": "New York-Barcelona Crossing, Volumen 2",
+    "release_year": 1998,
+    "label": "Fresh Sound New Talent",
+    "catalog_number": "FSNT 037 CD",
+    "is_leader": 0
+  },
+  {
+    "id": 220,
+    "discogs_release_id": 31218397,
+    "discogs_master_id": null,
+    "title": "Tornant A Jamaica",
+    "release_year": 1999,
+    "label": "Not On Label",
+    "catalog_number": "none",
+    "is_leader": 0
+  },
+  {
+    "id": 221,
+    "discogs_release_id": 28267432,
+    "discogs_master_id": 3240280,
+    "title": "Moment Of Truth",
+    "release_year": 1999,
+    "label": "Enja Records",
+    "catalog_number": "ENJ-9365 2",
+    "is_leader": 0
+  },
+  {
+    "id": 126,
+    "discogs_release_id": 2823724,
+    "discogs_master_id": 1429606,
+    "title": "The Sound Of Miles Davis",
+    "release_year": 2000,
+    "label": "Columbia",
+    "catalog_number": "none",
+    "is_leader": 1
+  },
+  {
+    "id": 222,
+    "discogs_release_id": 15477765,
+    "discogs_master_id": null,
+    "title": "Karakia",
+    "release_year": 2000,
+    "label": "Grass Roots Records (3)",
+    "catalog_number": "GRD010",
+    "is_leader": 0
+  },
+  {
+    "id": 223,
+    "discogs_release_id": 1764706,
+    "discogs_master_id": 1263833,
+    "title": "The Zu Side Of The Chadbourne",
+    "release_year": 2000,
+    "label": "Felmay",
+    "catalog_number": "Fy 7018",
+    "is_leader": 0
+  },
+  {
+    "id": 224,
+    "discogs_release_id": 11942922,
+    "discogs_master_id": 1477660,
+    "title": "Live in Chicago - Out Takes",
+    "release_year": 2000,
+    "label": "Blue Note",
+    "catalog_number": "7243 5 25494 2 9",
+    "is_leader": 0
+  },
+  {
+    "id": 127,
+    "discogs_release_id": 678281,
+    "discogs_master_id": 76017,
+    "title": "The Olatunji Concert: The Last Live Recording",
+    "release_year": 2001,
+    "label": "Impulse!",
+    "catalog_number": "314 589 120-2",
+    "is_leader": 1
+  },
+  {
+    "id": 225,
+    "discogs_release_id": 10671014,
+    "discogs_master_id": null,
+    "title": "Live At Onyx",
+    "release_year": 2001,
+    "label": "File Records",
+    "catalog_number": "FRCD-111",
+    "is_leader": 0
+  },
+  {
+    "id": 226,
+    "discogs_release_id": 10868541,
+    "discogs_master_id": 493695,
+    "title": "Great Ideas Of Western Mann",
+    "release_year": 2001,
+    "label": "Original Jazz Classics",
+    "catalog_number": "OJCCD-1065-2",
+    "is_leader": 0
+  },
+  {
+    "id": 227,
+    "discogs_release_id": 14477956,
+    "discogs_master_id": 1645609,
+    "title": "Stability",
+    "release_year": 2001,
+    "label": "Linn Records",
+    "catalog_number": "AKD 196",
+    "is_leader": 0
+  },
+  {
+    "id": 128,
+    "discogs_release_id": 26072401,
+    "discogs_master_id": null,
+    "title": "MP3 Collection",
+    "release_year": 2002,
+    "label": "RMG Records",
+    "catalog_number": "rm 033 mp3",
+    "is_leader": 1
+  },
+  {
+    "id": 129,
+    "discogs_release_id": 1601856,
+    "discogs_master_id": 615016,
+    "title": "Olympia - Mar. 20th, 1960",
+    "release_year": 2002,
+    "label": "LaserLight Digital",
+    "catalog_number": "36130",
+    "is_leader": 1
+  },
+  {
+    "id": 228,
+    "discogs_release_id": 1788011,
+    "discogs_master_id": null,
+    "title": "Solo (Koln) 1978",
+    "release_year": 2002,
+    "label": "Golden Years Of New Jazz",
+    "catalog_number": "GY 17",
+    "is_leader": 0
+  },
+  {
+    "id": 229,
+    "discogs_release_id": 30901722,
+    "discogs_master_id": null,
+    "title": "Hi-Fly = \u30cf\u30a4\u30fb\u30d5\u30e9\u30a4",
+    "release_year": 2002,
+    "label": "Roving Spirits",
+    "catalog_number": "RKCJ 2003",
+    "is_leader": 0
+  },
+  {
+    "id": 230,
+    "discogs_release_id": 35065739,
+    "discogs_master_id": null,
+    "title": "Mechanism",
+    "release_year": 2002,
+    "label": "Not On Label",
+    "catalog_number": "none",
+    "is_leader": 0
+  },
+  {
+    "id": 231,
+    "discogs_release_id": 9110344,
+    "discogs_master_id": null,
+    "title": "Altered",
+    "release_year": 2003,
+    "label": "Flitcraft Music",
+    "catalog_number": "none",
+    "is_leader": 0
+  },
+  {
+    "id": 232,
+    "discogs_release_id": 27239181,
+    "discogs_master_id": 888184,
+    "title": "Man In The Air",
+    "release_year": 2003,
+    "label": "Blue Note",
+    "catalog_number": "7243 5 80834 2 2",
+    "is_leader": 0
+  },
+  {
+    "id": 233,
+    "discogs_release_id": 10896594,
+    "discogs_master_id": null,
+    "title": "The Sound Of New York Jazz Underground ",
+    "release_year": 2004,
+    "label": "Fresh Sound New Talent",
+    "catalog_number": "FSNT 200",
+    "is_leader": 0
+  },
+  {
+    "id": 234,
+    "discogs_release_id": 11267053,
+    "discogs_master_id": null,
+    "title": "Oiseaux de Nuit",
+    "release_year": 2004,
+    "label": "Le Chant Du Monde",
+    "catalog_number": "274 1286",
+    "is_leader": 0
+  },
+  {
+    "id": 235,
+    "discogs_release_id": 14077291,
+    "discogs_master_id": null,
+    "title": "Olympia, Mar. 21st, 1960 Featuring John Coltrane / Olympia, Oct. 11th, 1960 Featuring Sonny Stitt",
+    "release_year": 2004,
+    "label": "Delta Entertainment",
+    "catalog_number": "52008",
+    "is_leader": 0
+  },
+  {
+    "id": 236,
+    "discogs_release_id": 582510,
+    "discogs_master_id": 1310861,
+    "title": "A Love Supreme",
+    "release_year": 2004,
+    "label": "Palmetto Records",
+    "catalog_number": "PM 2106",
+    "is_leader": 0
+  },
+  {
+    "id": 119,
+    "discogs_release_id": 2693961,
+    "discogs_master_id": 325969,
+    "title": "Live In Den Haag",
+    "release_year": 2005,
+    "label": "Lone Hill Jazz",
+    "catalog_number": "LHJ10206",
+    "is_leader": 1
+  },
+  {
+    "id": 130,
+    "discogs_release_id": 10919961,
+    "discogs_master_id": null,
+    "title": "At Carnegie Hall (BET TV Special)",
+    "release_year": 2005,
+    "label": "EMI",
+    "catalog_number": "none",
+    "is_leader": 1
+  },
+  {
+    "id": 131,
+    "discogs_release_id": 2041387,
+    "discogs_master_id": 75927,
+    "title": "One Down, One Up (Live At The Half Note)",
+    "release_year": 2005,
+    "label": "Impulse!",
+    "catalog_number": "B0002380-02",
+    "is_leader": 1
+  },
+  {
+    "id": 132,
+    "discogs_release_id": 546933,
+    "discogs_master_id": 71667,
+    "title": "At Carnegie Hall",
+    "release_year": 2005,
+    "label": "Blue Note",
+    "catalog_number": "0946 3 35173 2 5",
+    "is_leader": 1
+  },
+  {
+    "id": 237,
+    "discogs_release_id": 3035576,
+    "discogs_master_id": null,
+    "title": "Tesseract",
+    "release_year": 2005,
+    "label": "Not On Label (Clockwork (22) Self-released)",
+    "catalog_number": "PAC2980",
+    "is_leader": 0
+  },
+  {
+    "id": 238,
+    "discogs_release_id": 7172142,
+    "discogs_master_id": 853212,
+    "title": "Love For Sale",
+    "release_year": 2005,
+    "label": "Polonia Records",
+    "catalog_number": "CD 215",
+    "is_leader": 0
+  },
+  {
+    "id": 239,
+    "discogs_release_id": 7257404,
+    "discogs_master_id": null,
+    "title": "Actual Proof",
+    "release_year": 2006,
+    "label": "Polskie Radio Katowice",
+    "catalog_number": "PRK CD071",
+    "is_leader": 0
+  },
+  {
+    "id": 240,
+    "discogs_release_id": 14950869,
+    "discogs_master_id": null,
+    "title": "Plays Jazz Standards",
+    "release_year": 2006,
+    "label": "Definitive Records (2)",
+    "catalog_number": "DRCD11295",
+    "is_leader": 0
+  },
+  {
+    "id": 241,
+    "discogs_release_id": 1266732,
+    "discogs_master_id": null,
+    "title": "Solo (Pisa) 1982",
+    "release_year": 2007,
+    "label": "Golden Years Of New Jazz",
+    "catalog_number": "GY 28",
+    "is_leader": 0
+  },
+  {
+    "id": 242,
+    "discogs_release_id": 34750572,
+    "discogs_master_id": null,
+    "title": "One By One",
+    "release_year": 2008,
+    "label": "JazzCat",
+    "catalog_number": "JC2514",
+    "is_leader": 0
+  },
+  {
+    "id": 243,
+    "discogs_release_id": 2099021,
+    "discogs_master_id": null,
+    "title": "Hong Kong",
+    "release_year": 2009,
+    "label": "JMJ Marcin Jacobson",
+    "catalog_number": "JMJ01",
+    "is_leader": 0
+  },
+  {
+    "id": 244,
+    "discogs_release_id": 7117116,
+    "discogs_master_id": null,
+    "title": "Jeste\u015bmy... Witold Janiak Mainstreet Quartet",
+    "release_year": 2009,
+    "label": "Polskie Radio Katowice",
+    "catalog_number": "PRK CD 104",
+    "is_leader": 0
+  },
+  {
+    "id": 245,
+    "discogs_release_id": 21617230,
+    "discogs_master_id": null,
+    "title": "Live In Bucharest",
+    "release_year": 2009,
+    "label": "A&A Records",
+    "catalog_number": "160654-2",
+    "is_leader": 0
+  },
+  {
+    "id": 246,
+    "discogs_release_id": 4305801,
+    "discogs_master_id": 1833148,
+    "title": "Words",
+    "release_year": 2009,
+    "label": "Verve Records",
+    "catalog_number": "UCCJ-2079",
+    "is_leader": 0
+  },
+  {
+    "id": 247,
+    "discogs_release_id": 2519893,
+    "discogs_master_id": 48172,
+    "title": "Sketches Of Spain",
+    "release_year": 2009,
+    "label": "Columbia",
+    "catalog_number": "88697 43949 2",
+    "is_leader": 0
+  },
+  {
+    "id": 248,
+    "discogs_release_id": 2205223,
+    "discogs_master_id": 64650,
+    "title": "Ascenseur Pour L'\u00c9chafaud = Lift To The Scaffold",
+    "release_year": 2009,
+    "label": "Jazz Wax Records",
+    "catalog_number": "JWR 4503",
+    "is_leader": 0
+  },
+  {
+    "id": 133,
+    "discogs_release_id": 4792406,
+    "discogs_master_id": 583291,
+    "title": "1960 Duesseldorf",
+    "release_year": 2010,
+    "label": "Jazzline",
+    "catalog_number": "N 77 002",
+    "is_leader": 1
+  },
+  {
+    "id": 249,
+    "discogs_release_id": 7117549,
+    "discogs_master_id": null,
+    "title": "Urba\u0144ski",
+    "release_year": 2010,
+    "label": "Not On Label",
+    "catalog_number": "none",
+    "is_leader": 0
+  },
+  {
+    "id": 250,
+    "discogs_release_id": 5076049,
+    "discogs_master_id": 4299024,
+    "title": "More Live At The Showboat 1963",
+    "release_year": 2010,
+    "label": "RLR Records",
+    "catalog_number": "RLR 88657",
+    "is_leader": 0
+  },
+  {
+    "id": 251,
+    "discogs_release_id": 13115827,
+    "discogs_master_id": null,
+    "title": "Waltzing Moon",
+    "release_year": 2011,
+    "label": "Celinka",
+    "catalog_number": "CEL CD 020",
+    "is_leader": 0
+  },
+  {
+    "id": 252,
+    "discogs_release_id": 11682093,
+    "discogs_master_id": 1689362,
+    "title": "Tricoroll",
+    "release_year": 2011,
+    "label": "EWE Records",
+    "catalog_number": "EWBS-0184",
+    "is_leader": 0
+  },
+  {
+    "id": 134,
+    "discogs_release_id": 5570944,
+    "discogs_master_id": 37337,
+    "title": "Africa / Brass",
+    "release_year": 2012,
+    "label": "Essential Jazz Classics",
+    "catalog_number": "EJC55538",
+    "is_leader": 1
+  },
+  {
+    "id": 253,
+    "discogs_release_id": 6815439,
+    "discogs_master_id": null,
+    "title": "Cause And Effect",
+    "release_year": 2012,
+    "label": "Prophone",
+    "catalog_number": "PCD 132",
+    "is_leader": 0
+  },
+  {
+    "id": 254,
+    "discogs_release_id": 8695359,
+    "discogs_master_id": null,
+    "title": "Li'l Darlin'",
+    "release_year": 2012,
+    "label": "Spice Of Life",
+    "catalog_number": "PBCM-61045",
+    "is_leader": 0
+  },
+  {
+    "id": 255,
+    "discogs_release_id": 10847028,
+    "discogs_master_id": null,
+    "title": "Hexapods",
+    "release_year": 2012,
+    "label": "Not On Label (Zloy Self-released)",
+    "catalog_number": "none",
+    "is_leader": 0
+  },
+  {
+    "id": 256,
+    "discogs_release_id": 4956719,
+    "discogs_master_id": 1253412,
+    "title": "I'm Old Fashioned",
+    "release_year": 2012,
+    "label": "Edel : Content",
+    "catalog_number": "0207336CTT",
+    "is_leader": 0
+  },
+  {
+    "id": 257,
+    "discogs_release_id": 4918976,
+    "discogs_master_id": 1498213,
+    "title": "So What (The Complete 1960 Amsterdam Concerts)",
+    "release_year": 2012,
+    "label": "Nederlands Jazz Archief",
+    "catalog_number": "NJA 1301",
+    "is_leader": 0
+  },
+  {
+    "id": 258,
+    "discogs_release_id": 4640880,
+    "discogs_master_id": null,
+    "title": "Om Suite Ohm",
+    "release_year": 2013,
+    "label": "Dog My Cat Records",
+    "catalog_number": "DMCR00874",
+    "is_leader": 0
+  },
+  {
+    "id": 259,
+    "discogs_release_id": 6146551,
+    "discogs_master_id": null,
+    "title": "un",
+    "release_year": 2013,
+    "label": "unmusic",
+    "catalog_number": "UNCD01",
+    "is_leader": 0
+  },
+  {
+    "id": 260,
+    "discogs_release_id": 7185618,
+    "discogs_master_id": null,
+    "title": "Don\u2019t Explain",
+    "release_year": 2013,
+    "label": "SOJazz Records",
+    "catalog_number": "SOJ 008",
+    "is_leader": 0
+  },
+  {
+    "id": 261,
+    "discogs_release_id": 11659401,
+    "discogs_master_id": null,
+    "title": "En Mots M\u00e2ch\u00e9s Et Notes Bris\u00e9es",
+    "release_year": 2013,
+    "label": "Not On Label (Raptou Self-released)",
+    "catalog_number": "none",
+    "is_leader": 0
+  },
+  {
+    "id": 262,
+    "discogs_release_id": 21902395,
+    "discogs_master_id": null,
+    "title": "Ella The Cat",
+    "release_year": 2013,
+    "label": "Satin & Steel Music",
+    "catalog_number": "SAS 102",
+    "is_leader": 0
+  },
+  {
+    "id": 263,
+    "discogs_release_id": 13792554,
+    "discogs_master_id": 1069878,
+    "title": "Pennsylvania Concert 1963",
+    "release_year": 2013,
+    "label": "Payton Place Records",
+    "catalog_number": "28635788",
+    "is_leader": 0
+  },
+  {
+    "id": 135,
+    "discogs_release_id": 38941288,
+    "discogs_master_id": null,
+    "title": "The quintessence - NEW YORK CITY 1956-1962",
+    "release_year": 2014,
+    "label": "Fr\u00e9meaux & Associ\u00e9s",
+    "catalog_number": "FA 297",
+    "is_leader": 1
+  },
+  {
+    "id": 136,
+    "discogs_release_id": 13788681,
+    "discogs_master_id": 1026795,
+    "title": "Live In Saint Louis February 16 & 23, 1957",
+    "release_year": 2014,
+    "label": "RLR Records",
+    "catalog_number": "RLR 88770",
+    "is_leader": 1
+  },
+  {
+    "id": 137,
+    "discogs_release_id": 6081970,
+    "discogs_master_id": 736566,
+    "title": "Offering: Live At Temple University",
+    "release_year": 2014,
+    "label": "Impulse!",
+    "catalog_number": "B0019632-02",
+    "is_leader": 1
+  },
+  {
+    "id": 264,
+    "discogs_release_id": 12935773,
+    "discogs_master_id": null,
+    "title": "\u0150szi V\u00e1zlatok - \u00c9l\u0151 Koncertfelv\u00e9telek",
+    "release_year": 2014,
+    "label": "Not On Label (T\u00e1rk\u00e1ny M\u0171vek Self-released)",
+    "catalog_number": "TM 2014",
+    "is_leader": 0
+  },
+  {
+    "id": 265,
+    "discogs_release_id": 15626604,
+    "discogs_master_id": 1804668,
+    "title": "John Coltrane: A Love Supreme",
+    "release_year": 2014,
+    "label": "Jazz&People",
+    "catalog_number": "JPCD 814001",
+    "is_leader": 0
+  },
+  {
+    "id": 266,
+    "discogs_release_id": 7947061,
+    "discogs_master_id": 118117,
+    "title": "Somethin' Else",
+    "release_year": 2014,
+    "label": "Masterworks Series",
+    "catalog_number": "21348",
+    "is_leader": 0
+  },
+  {
+    "id": 267,
+    "discogs_release_id": 7627515,
+    "discogs_master_id": null,
+    "title": "Solo Alto Saxophone - Public Library Sessions, October 2015",
+    "release_year": 2015,
+    "label": "Not On Label (Brandon Evans (2) Self-released)",
+    "catalog_number": "none",
+    "is_leader": 0
+  },
+  {
+    "id": 268,
+    "discogs_release_id": 12652962,
+    "discogs_master_id": null,
+    "title": "Aoura",
+    "release_year": 2015,
+    "label": "Fr\u00e9meaux & Associ\u00e9s",
+    "catalog_number": "FA 8517",
+    "is_leader": 0
+  },
+  {
+    "id": 269,
+    "discogs_release_id": 13807206,
+    "discogs_master_id": null,
+    "title": "Wondrous Roads",
+    "release_year": 2015,
+    "label": "Jiiva Records",
+    "catalog_number": "jii002",
+    "is_leader": 0
+  },
+  {
+    "id": 270,
+    "discogs_release_id": 7268442,
+    "discogs_master_id": 863628,
+    "title": "At Newport 1955-1975 (The Bootleg Series Vol. 4)",
+    "release_year": 2015,
+    "label": "Columbia",
+    "catalog_number": "88875081952",
+    "is_leader": 0
+  },
+  {
+    "id": 138,
+    "discogs_release_id": 8397183,
+    "discogs_master_id": 3589661,
+    "title": "The Roulette Sides",
+    "release_year": 2016,
+    "label": "Roulette",
+    "catalog_number": "SR-52125",
+    "is_leader": 1
+  },
+  {
+    "id": 271,
+    "discogs_release_id": 9343617,
+    "discogs_master_id": null,
+    "title": "Toys",
+    "release_year": 2016,
+    "label": "For Tune",
+    "catalog_number": "0115 073",
+    "is_leader": 0
+  },
+  {
+    "id": 272,
+    "discogs_release_id": 9091708,
+    "discogs_master_id": 1299781,
+    "title": "The Declaration Of Musical Independence",
+    "release_year": 2016,
+    "label": "ECM Records",
+    "catalog_number": "ECM 2430",
+    "is_leader": 0
+  },
+  {
+    "id": 273,
+    "discogs_release_id": 9575178,
+    "discogs_master_id": 2824847,
+    "title": "Final Definition",
+    "release_year": 2016,
+    "label": "P-Vine Records",
+    "catalog_number": "PCD-24572",
+    "is_leader": 0
+  },
+  {
+    "id": 139,
+    "discogs_release_id": 13033163,
+    "discogs_master_id": 1545618,
+    "title": "Chasing Trane- The John Coltrane Documentary",
+    "release_year": 2017,
+    "label": "Impulse!",
+    "catalog_number": "B0027444-59",
+    "is_leader": 1
+  },
+  {
+    "id": 274,
+    "discogs_release_id": 10529073,
+    "discogs_master_id": null,
+    "title": "Garden(s)",
+    "release_year": 2017,
+    "label": "Ayler Records",
+    "catalog_number": "AYLCD-150",
+    "is_leader": 0
+  },
+  {
+    "id": 275,
+    "discogs_release_id": 30759234,
+    "discogs_master_id": 3494499,
+    "title": "Nobody Knows",
+    "release_year": 2017,
+    "label": "Fr\u00e9meaux & Associ\u00e9s",
+    "catalog_number": "FA 8541",
+    "is_leader": 0
+  },
+  {
+    "id": 140,
+    "discogs_release_id": 12833921,
+    "discogs_master_id": null,
+    "title": "Untitled Original 11383 / Impressions",
+    "release_year": 2018,
+    "label": "Impulse!",
+    "catalog_number": "B0028987-11",
+    "is_leader": 1
+  },
+  {
+    "id": 141,
+    "discogs_release_id": 12191700,
+    "discogs_master_id": 1385373,
+    "title": "Both Directions At Once: The Lost Album",
+    "release_year": 2018,
+    "label": "Impulse!",
+    "catalog_number": "B0028228-02",
+    "is_leader": 1
+  },
+  {
+    "id": 142,
+    "discogs_release_id": 11754340,
+    "discogs_master_id": 1336254,
+    "title": "The Final Tour (The Bootleg Series, Vol. 6)",
+    "release_year": 2018,
+    "label": "Columbia",
+    "catalog_number": "88985448392",
+    "is_leader": 1
+  },
+  {
+    "id": 276,
+    "discogs_release_id": 34267825,
+    "discogs_master_id": null,
+    "title": "The Trane's Blues",
+    "release_year": 2018,
+    "label": "RiverStreet Rec.",
+    "catalog_number": "002 CD",
+    "is_leader": 0
+  },
+  {
+    "id": 277,
+    "discogs_release_id": 13936173,
+    "discogs_master_id": 64721,
+    "title": "Miles Ahead",
+    "release_year": 2018,
+    "label": "Jazz Images",
+    "catalog_number": "38044",
+    "is_leader": 0
+  },
+  {
+    "id": 143,
+    "discogs_release_id": 14185160,
+    "discogs_master_id": 1611996,
+    "title": "Blue World",
+    "release_year": 2019,
+    "label": "Impulse!",
+    "catalog_number": "B0030158-01",
+    "is_leader": 1
+  },
+  {
+    "id": 144,
+    "discogs_release_id": 26778563,
+    "discogs_master_id": 3103992,
+    "title": "Love Will Save The Day / A Love Supreme",
+    "release_year": 2019,
+    "label": "G.A.M.M.",
+    "catalog_number": "GAMM136",
+    "is_leader": 1
+  },
+  {
+    "id": 278,
+    "discogs_release_id": 14538428,
+    "discogs_master_id": null,
+    "title": "Impressions - Graz 1962",
+    "release_year": 2019,
+    "label": "ezz-thetics",
+    "catalog_number": "ezz-thetics 1019",
+    "is_leader": 0
+  },
+  {
+    "id": 279,
+    "discogs_release_id": 15965195,
+    "discogs_master_id": null,
+    "title": "Big Rock",
+    "release_year": 2019,
+    "label": "Klarthe Records",
+    "catalog_number": "KRJ021",
+    "is_leader": 0
+  },
+  {
+    "id": 280,
+    "discogs_release_id": 13223738,
+    "discogs_master_id": 1502591,
+    "title": "The Gleaners",
+    "release_year": 2019,
+    "label": "ECM Records",
+    "catalog_number": "ECM 2560",
+    "is_leader": 0
+  },
+  {
+    "id": 145,
+    "discogs_release_id": 17531833,
+    "discogs_master_id": null,
+    "title": "Live In Paris - 17 Novembre 1962",
+    "release_year": 2020,
+    "label": "Fr\u00e9meaux & Associ\u00e9s",
+    "catalog_number": "FA 5768",
+    "is_leader": 1
+  },
+  {
+    "id": 281,
+    "discogs_release_id": 15637254,
+    "discogs_master_id": null,
+    "title": "My Favorite Things - Graz 1962",
+    "release_year": 2020,
+    "label": "ezz-thetics",
+    "catalog_number": "ezz-thetics 1020",
+    "is_leader": 0
+  },
+  {
+    "id": 146,
+    "discogs_release_id": 20662282,
+    "discogs_master_id": 2345266,
+    "title": "A Love Supreme: Live In Seattle",
+    "release_year": 2021,
+    "label": "Impulse!",
+    "catalog_number": "00602438499977",
+    "is_leader": 1
+  },
+  {
+    "id": 282,
+    "discogs_release_id": 20540059,
+    "discogs_master_id": null,
+    "title": "Change Of Heart",
+    "release_year": 2021,
+    "label": "Jazz Family",
+    "catalog_number": "JF070",
+    "is_leader": 0
+  },
+  {
+    "id": 147,
+    "discogs_release_id": 24045071,
+    "discogs_master_id": null,
+    "title": "The Lost 1965 Seattle Broadcast",
+    "release_year": 2022,
+    "label": "Fat Alberts Bag",
+    "catalog_number": "FAJB001CD",
+    "is_leader": 1
+  },
+  {
+    "id": 148,
+    "discogs_release_id": 37512723,
+    "discogs_master_id": null,
+    "title": "Chasin' Another Trane... Live At The Village Vanguard",
+    "release_year": 2022,
+    "label": "Moochin' About",
+    "catalog_number": "none",
+    "is_leader": 1
+  },
+  {
+    "id": 149,
+    "discogs_release_id": 31044421,
+    "discogs_master_id": 3594740,
+    "title": "The 1961 Newport Set",
+    "release_year": 2022,
+    "label": "Essential Jazz Classics",
+    "catalog_number": "EJC55767",
+    "is_leader": 1
+  },
+  {
+    "id": 283,
+    "discogs_release_id": 25162012,
+    "discogs_master_id": null,
+    "title": "Petrichor",
+    "release_year": 2022,
+    "label": "Clean Feed",
+    "catalog_number": "CF604CD",
+    "is_leader": 0
+  },
+  {
+    "id": 284,
+    "discogs_release_id": 22590914,
+    "discogs_master_id": 104371,
+    "title": "Portrait In Jazz",
+    "release_year": 2022,
+    "label": "Groove Replica",
+    "catalog_number": "77035",
+    "is_leader": 0
+  },
+  {
+    "id": 150,
+    "discogs_release_id": 31786397,
+    "discogs_master_id": null,
+    "title": "Thelonious Monk & John Coltrane At Carnegie Hall",
+    "release_year": 2023,
+    "label": "Destination Moon Records",
+    "catalog_number": "DMOO076",
+    "is_leader": 1
+  },
+  {
+    "id": 151,
+    "discogs_release_id": 27684567,
+    "discogs_master_id": 3167358,
+    "title": "Evenings At The Village Gate",
+    "release_year": 2023,
+    "label": "Impulse!",
+    "catalog_number": "B0037785-01",
+    "is_leader": 1
+  },
+  {
+    "id": 285,
+    "discogs_release_id": 25749124,
+    "discogs_master_id": null,
+    "title": "Escapism",
+    "release_year": 2023,
+    "label": "Aggravated Mayhem",
+    "catalog_number": "197388465474",
+    "is_leader": 0
+  },
+  {
+    "id": 286,
+    "discogs_release_id": 28845598,
+    "discogs_master_id": 3303532,
+    "title": "Left",
+    "release_year": 2023,
+    "label": "Ear Music",
+    "catalog_number": "0219035EMU",
+    "is_leader": 0
+  },
+  {
+    "id": 152,
+    "discogs_release_id": 31963073,
+    "discogs_master_id": null,
+    "title": "Complete Caf\u00e9 Bohemia Bandstand U.S.A. 1956-58 Radio Broadcasts Volume 1",
+    "release_year": 2024,
+    "label": "GRooVE back records",
+    "catalog_number": "GBR00124",
+    "is_leader": 1
+  },
+  {
+    "id": 153,
+    "discogs_release_id": 30833874,
+    "discogs_master_id": 613976,
+    "title": "Live In Zurich 1960",
+    "release_year": 2024,
+    "label": "Jazz Wax Records",
+    "catalog_number": "JWR 4634",
+    "is_leader": 1
+  },
+  {
+    "id": 287,
+    "discogs_release_id": 32637699,
+    "discogs_master_id": null,
+    "title": "Dysphasic Interplexia ",
+    "release_year": 2024,
+    "label": "Putrefactive Recordings",
+    "catalog_number": "PR026",
+    "is_leader": 0
+  },
+  {
+    "id": 288,
+    "discogs_release_id": 30272873,
+    "discogs_master_id": 3571961,
+    "title": "The 1962 Birdland Broadcasts  ",
+    "release_year": 2024,
+    "label": "Fingerpoppin' Records",
+    "catalog_number": "117029",
+    "is_leader": 0
+  },
+  {
+    "id": 154,
+    "discogs_release_id": 36005221,
+    "discogs_master_id": 4154782,
+    "title": "Live In Finland 1961 \u2022 1962",
+    "release_year": 2025,
+    "label": "The Lost Recordings",
+    "catalog_number": "TLR-2504065V",
+    "is_leader": 1
+  },
+  {
+    "id": 289,
+    "discogs_release_id": 33251172,
+    "discogs_master_id": null,
+    "title": "Do Zvijezda",
+    "release_year": 2025,
+    "label": "Dancing Bear",
+    "catalog_number": "DBLP - 681",
+    "is_leader": 0
+  },
+  {
+    "id": 290,
+    "discogs_release_id": 34410775,
+    "discogs_master_id": 3895120,
+    "title": "Insides",
+    "release_year": 2025,
+    "label": "Calm Courage",
+    "catalog_number": "Calm Courage 2025",
+    "is_leader": 0
+  },
+  {
+    "id": 155,
+    "discogs_release_id": 38933068,
+    "discogs_master_id": null,
+    "title": "John Coltrane 100: Highlights 1957-1964",
+    "release_year": 2026,
+    "label": "Rhino Records (2)",
+    "catalog_number": "0603497802753",
+    "is_leader": 1
+  },
+  {
+    "id": 156,
+    "discogs_release_id": 38955620,
+    "discogs_master_id": 4400111,
+    "title": "The Tiberi Tapes ",
+    "release_year": 2026,
+    "label": "Impulse!",
+    "catalog_number": "881061010784",
+    "is_leader": 1
+  },
+  {
+    "id": 157,
+    "discogs_release_id": 37097442,
+    "discogs_master_id": 4208898,
+    "title": "The Tiberi Tapes: A Preview Of The Mythic Recordings",
+    "release_year": 2026,
+    "label": "Impulse!",
+    "catalog_number": "199957257138",
+    "is_leader": 1
+  },
+  {
+    "id": 291,
+    "discogs_release_id": 38724123,
+    "discogs_master_id": null,
+    "title": "Ballads ",
+    "release_year": 2026,
+    "label": "Ober Entertainment",
+    "catalog_number": "350305",
+    "is_leader": 0
+  },
+  {
+    "id": 292,
+    "discogs_release_id": 38791842,
+    "discogs_master_id": null,
+    "title": "Chasin' the Trane: Copenhagen 1962",
+    "release_year": 2026,
+    "label": "Impulse!",
+    "catalog_number": "881061210825",
+    "is_leader": 0
+  },
+  {
+    "id": 293,
+    "discogs_release_id": 38282145,
+    "discogs_master_id": 4402046,
+    "title": "EGT / EGQ",
+    "release_year": 2026,
+    "label": "Djs Techno Conference",
+    "catalog_number": "DTC029",
+    "is_leader": 0
+  }
+]

@@ -1,0 +1,6009 @@
+[
+  {
+    "year": 1949,
+    "musicians": [
+      {
+        "id": 206,
+        "name": "Dizzy Gillespie",
+        "albums": [
+          {
+            "id": 160,
+            "title": "Say When / You Stole My Wife - You Horse Thief",
+            "instrument": "Vocals"
+          }
+        ]
+      },
+      {
+        "id": 270,
+        "name": "Dizzy Gillespie And His Orchestra",
+        "albums": [
+          {
+            "id": 160,
+            "title": "Say When / You Stole My Wife - You Horse Thief",
+            "instrument": "Performer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1950,
+    "musicians": [
+      {
+        "id": 272,
+        "name": "Al Gibson",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Baritone Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 273,
+        "name": "Al McKibbon",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 177,
+        "name": "Charles Greenlee",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 206,
+        "name": "Dizzy Gillespie",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 270,
+        "name": "Dizzy Gillespie And His Orchestra",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 281,
+        "name": "Don Slaughter",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 282,
+        "name": "Elmon Wright",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 277,
+        "name": "Jesse Powell (2)",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 271,
+        "name": "Jimmy Heath",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 275,
+        "name": "John Collins (2)",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Guitar"
+          }
+        ]
+      },
+      {
+        "id": 276,
+        "name": "Johnny Acea",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 279,
+        "name": "Matthew Gee",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 278,
+        "name": "Paul Gonsalves",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 280,
+        "name": "Sam Hurt",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 274,
+        "name": "Specs Wright",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 284,
+        "name": "Tiny Irvin",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Vocals"
+          }
+        ]
+      },
+      {
+        "id": 283,
+        "name": "Willie Cook",
+        "albums": [
+          {
+            "id": 161,
+            "title": "Tally-Ho / I Can't Remember",
+            "instrument": "Trumpet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1951,
+    "musicians": [
+      {
+        "id": 206,
+        "name": "Dizzy Gillespie",
+        "albums": [
+          {
+            "id": 162,
+            "title": "Tin Tin Daeo / Birks Works",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 286,
+        "name": "Kansas Fields",
+        "albums": [
+          {
+            "id": 162,
+            "title": "Tin Tin Daeo / Birks Works",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Kenny Burrell",
+        "albums": [
+          {
+            "id": 162,
+            "title": "Tin Tin Daeo / Birks Works",
+            "instrument": "Guitar"
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "name": "Milt Jackson",
+        "albums": [
+          {
+            "id": 162,
+            "title": "Tin Tin Daeo / Birks Works",
+            "instrument": "Vibraphone"
+          }
+        ]
+      },
+      {
+        "id": 126,
+        "name": "Percy Heath",
+        "albums": [
+          {
+            "id": 162,
+            "title": "Tin Tin Daeo / Birks Works",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 285,
+        "name": "The Calypso Boys",
+        "albums": [
+          {
+            "id": 162,
+            "title": "Tin Tin Daeo / Birks Works",
+            "instrument": "Backing Vocals"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1952,
+    "musicians": [
+      {
+        "id": 303,
+        "name": "Al Jones",
+        "albums": [
+          {
+            "id": 167,
+            "title": "Dizzy Gillespie",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 302,
+        "name": "Andy Razaf",
+        "albums": [
+          {
+            "id": 166,
+            "title": "Moonglow / Ain't Misbehavin'",
+            "instrument": "Lyrics By"
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Art Blakey",
+        "albums": [
+          {
+            "id": 167,
+            "title": "Dizzy Gillespie",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Bill Graham",
+        "albums": [
+          {
+            "id": 167,
+            "title": "Dizzy Gillespie",
+            "instrument": "Alto Saxophone, Baritone Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 304,
+        "name": "Budd Johnson",
+        "albums": [
+          {
+            "id": 167,
+            "title": "Dizzy Gillespie",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 299,
+        "name": "Cliff Smalls",
+        "albums": [
+          {
+            "id": 164,
+            "title": "Linger Awhile / Lover Come Back To Me",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 206,
+        "name": "Dizzy Gillespie",
+        "albums": [
+          {
+            "id": 167,
+            "title": "Dizzy Gillespie",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 291,
+        "name": "Earl Bostic",
+        "albums": [
+          {
+            "id": 164,
+            "title": "Linger Awhile / Lover Come Back To Me",
+            "instrument": "Alto Saxophone"
+          },
+          {
+            "id": 166,
+            "title": "Moonglow / Ain't Misbehavin'",
+            "instrument": "Alto Saxophone, Leader"
+          },
+          {
+            "id": 165,
+            "title": "You Go To My Head / The Hour Of Parting",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 290,
+        "name": "Earl Bostic And His Orchestra",
+        "albums": [
+          {
+            "id": 164,
+            "title": "Linger Awhile / Lover Come Back To Me",
+            "instrument": "Performer"
+          },
+          {
+            "id": 166,
+            "title": "Moonglow / Ain't Misbehavin'",
+            "instrument": "Performer"
+          },
+          {
+            "id": 165,
+            "title": "You Go To My Head / The Hour Of Parting",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 308,
+        "name": "Freddy Strong",
+        "albums": [
+          {
+            "id": 167,
+            "title": "Dizzy Gillespie",
+            "instrument": "Vocals"
+          }
+        ]
+      },
+      {
+        "id": 288,
+        "name": "Gay Crosse",
+        "albums": [
+          {
+            "id": 163,
+            "title": "Easy Rockin' / G. C. Rock",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 287,
+        "name": "Gay Crosse & His Good Humor Six",
+        "albums": [
+          {
+            "id": 163,
+            "title": "Easy Rockin' / G. C. Rock",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 297,
+        "name": "Gene Redd",
+        "albums": [
+          {
+            "id": 164,
+            "title": "Linger Awhile / Lover Come Back To Me",
+            "instrument": "Trumpet"
+          },
+          {
+            "id": 166,
+            "title": "Moonglow / Ain't Misbehavin'",
+            "instrument": "Trumpet, Vibraphone"
+          },
+          {
+            "id": 165,
+            "title": "You Go To My Head / The Hour Of Parting",
+            "instrument": "Vibraphone, Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 301,
+        "name": "Harold Grant (2)",
+        "albums": [
+          {
+            "id": 165,
+            "title": "You Go To My Head / The Hour Of Parting",
+            "instrument": "Guitar"
+          }
+        ]
+      },
+      {
+        "id": 292,
+        "name": "Ike Isaacs (2)",
+        "albums": [
+          {
+            "id": 164,
+            "title": "Linger Awhile / Lover Come Back To Me",
+            "instrument": "Bass"
+          },
+          {
+            "id": 166,
+            "title": "Moonglow / Ain't Misbehavin'",
+            "instrument": "Drums"
+          },
+          {
+            "id": 165,
+            "title": "You Go To My Head / The Hour Of Parting",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 305,
+        "name": "J.J. Johnson",
+        "albums": [
+          {
+            "id": 167,
+            "title": "Dizzy Gillespie",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Jimmy Cobb",
+        "albums": [
+          {
+            "id": 164,
+            "title": "Linger Awhile / Lover Come Back To Me",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 293,
+        "name": "Jimmy Shirley",
+        "albums": [
+          {
+            "id": 164,
+            "title": "Linger Awhile / Lover Come Back To Me",
+            "instrument": "Guitar"
+          },
+          {
+            "id": 166,
+            "title": "Moonglow / Ain't Misbehavin'",
+            "instrument": "Guitar"
+          }
+        ]
+      },
+      {
+        "id": 307,
+        "name": "Joe Carroll",
+        "albums": [
+          {
+            "id": 167,
+            "title": "Dizzy Gillespie",
+            "instrument": "Vocals"
+          }
+        ]
+      },
+      {
+        "id": 294,
+        "name": "Joe Knight (4)",
+        "albums": [
+          {
+            "id": 164,
+            "title": "Linger Awhile / Lover Come Back To Me",
+            "instrument": "Piano"
+          },
+          {
+            "id": 166,
+            "title": "Moonglow / Ain't Misbehavin'",
+            "instrument": "Piano"
+          },
+          {
+            "id": 165,
+            "title": "You Go To My Head / The Hour Of Parting",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 296,
+        "name": "Joe Mitchell (4)",
+        "albums": [
+          {
+            "id": 164,
+            "title": "Linger Awhile / Lover Come Back To Me",
+            "instrument": "Trumpet"
+          },
+          {
+            "id": 166,
+            "title": "Moonglow / Ain't Misbehavin'",
+            "instrument": "Trumpet"
+          },
+          {
+            "id": 165,
+            "title": "You Go To My Head / The Hour Of Parting",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 286,
+        "name": "Kansas Fields",
+        "albums": [
+          {
+            "id": 167,
+            "title": "Dizzy Gillespie",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Kenny Burrell",
+        "albums": [
+          {
+            "id": 167,
+            "title": "Dizzy Gillespie",
+            "instrument": "Guitar"
+          }
+        ]
+      },
+      {
+        "id": 298,
+        "name": "Keter Betts",
+        "albums": [
+          {
+            "id": 164,
+            "title": "Linger Awhile / Lover Come Back To Me",
+            "instrument": "Bass"
+          },
+          {
+            "id": 166,
+            "title": "Moonglow / Ain't Misbehavin'",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 300,
+        "name": "Lowell \"Count\" Hastings",
+        "albums": [
+          {
+            "id": 164,
+            "title": "Linger Awhile / Lover Come Back To Me",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 309,
+        "name": "Melvin Moore (8)",
+        "albums": [
+          {
+            "id": 167,
+            "title": "Dizzy Gillespie",
+            "instrument": "Vocals"
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "name": "Milt Jackson",
+        "albums": [
+          {
+            "id": 167,
+            "title": "Dizzy Gillespie",
+            "instrument": "Organ, Vocals"
+          }
+        ]
+      },
+      {
+        "id": 126,
+        "name": "Percy Heath",
+        "albums": [
+          {
+            "id": 167,
+            "title": "Dizzy Gillespie",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 295,
+        "name": "Pinky Williams",
+        "albums": [
+          {
+            "id": 164,
+            "title": "Linger Awhile / Lover Come Back To Me",
+            "instrument": "Saxophone"
+          },
+          {
+            "id": 166,
+            "title": "Moonglow / Ain't Misbehavin'",
+            "instrument": "Baritone Saxophone"
+          },
+          {
+            "id": 165,
+            "title": "You Go To My Head / The Hour Of Parting",
+            "instrument": "Alto Saxophone, Baritone Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 274,
+        "name": "Specs Wright",
+        "albums": [
+          {
+            "id": 164,
+            "title": "Linger Awhile / Lover Come Back To Me",
+            "instrument": "Drums"
+          },
+          {
+            "id": 165,
+            "title": "You Go To My Head / The Hour Of Parting",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 289,
+        "name": "Stanley Turrentine",
+        "albums": [
+          {
+            "id": 163,
+            "title": "Easy Rockin' / G. C. Rock",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 306,
+        "name": "Stuff Smith",
+        "albums": [
+          {
+            "id": 167,
+            "title": "Dizzy Gillespie",
+            "instrument": "Violin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1953,
+    "musicians": [
+      {
+        "id": 299,
+        "name": "Cliff Smalls",
+        "albums": [
+          {
+            "id": 169,
+            "title": "Earl Bostic His Alto Sax And His Orchestra",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 310,
+        "name": "Coatesville Harris Orch.",
+        "albums": [
+          {
+            "id": 168,
+            "title": "Ham Hocks And Hominy / Strange Things All The Rage",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 313,
+        "name": "Comte",
+        "albums": [
+          {
+            "id": 169,
+            "title": "Earl Bostic His Alto Sax And His Orchestra",
+            "instrument": "Illustration"
+          }
+        ]
+      },
+      {
+        "id": 291,
+        "name": "Earl Bostic",
+        "albums": [
+          {
+            "id": 169,
+            "title": "Earl Bostic His Alto Sax And His Orchestra",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 290,
+        "name": "Earl Bostic And His Orchestra",
+        "albums": [
+          {
+            "id": 169,
+            "title": "Earl Bostic His Alto Sax And His Orchestra",
+            "instrument": "Orchestra"
+          }
+        ]
+      },
+      {
+        "id": 297,
+        "name": "Gene Redd",
+        "albums": [
+          {
+            "id": 169,
+            "title": "Earl Bostic His Alto Sax And His Orchestra",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 292,
+        "name": "Ike Isaacs (2)",
+        "albums": [
+          {
+            "id": 169,
+            "title": "Earl Bostic His Alto Sax And His Orchestra",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Jimmy Cobb",
+        "albums": [
+          {
+            "id": 169,
+            "title": "Earl Bostic His Alto Sax And His Orchestra",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 293,
+        "name": "Jimmy Shirley",
+        "albums": [
+          {
+            "id": 169,
+            "title": "Earl Bostic His Alto Sax And His Orchestra",
+            "instrument": "Guitar"
+          }
+        ]
+      },
+      {
+        "id": 294,
+        "name": "Joe Knight (4)",
+        "albums": [
+          {
+            "id": 169,
+            "title": "Earl Bostic His Alto Sax And His Orchestra",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 296,
+        "name": "Joe Mitchell (4)",
+        "albums": [
+          {
+            "id": 169,
+            "title": "Earl Bostic His Alto Sax And His Orchestra",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 298,
+        "name": "Keter Betts",
+        "albums": [
+          {
+            "id": 169,
+            "title": "Earl Bostic His Alto Sax And His Orchestra",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 300,
+        "name": "Lowell \"Count\" Hastings",
+        "albums": [
+          {
+            "id": 169,
+            "title": "Earl Bostic His Alto Sax And His Orchestra",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 295,
+        "name": "Pinky Williams",
+        "albums": [
+          {
+            "id": 169,
+            "title": "Earl Bostic His Alto Sax And His Orchestra",
+            "instrument": "Baritone Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 312,
+        "name": "Rene Hall",
+        "albums": [
+          {
+            "id": 169,
+            "title": "Earl Bostic His Alto Sax And His Orchestra",
+            "instrument": "Guitar"
+          }
+        ]
+      },
+      {
+        "id": 311,
+        "name": "Rodney Smith (9)",
+        "albums": [
+          {
+            "id": 168,
+            "title": "Ham Hocks And Hominy / Strange Things All The Rage",
+            "instrument": "Performer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1954,
+    "musicians": [
+      {
+        "id": 203,
+        "name": "Call Cobbs",
+        "albums": [
+          {
+            "id": 170,
+            "title": "Sweet As Bear Meat / Skokiaan",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 208,
+        "name": "Harold Baker",
+        "albums": [
+          {
+            "id": 170,
+            "title": "Sweet As Bear Meat / Skokiaan",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 198,
+        "name": "Johnny Hodges",
+        "albums": [
+          {
+            "id": 170,
+            "title": "Sweet As Bear Meat / Skokiaan",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 314,
+        "name": "Johnny Hodges And His Orchestra",
+        "albums": [
+          {
+            "id": 170,
+            "title": "Sweet As Bear Meat / Skokiaan",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 199,
+        "name": "Johnny Williams",
+        "albums": [
+          {
+            "id": 170,
+            "title": "Sweet As Bear Meat / Skokiaan",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 205,
+        "name": "Lawrence Brown",
+        "albums": [
+          {
+            "id": 170,
+            "title": "Sweet As Bear Meat / Skokiaan",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 315,
+        "name": "Louis Bellson",
+        "albums": [
+          {
+            "id": 170,
+            "title": "Sweet As Bear Meat / Skokiaan",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 259,
+        "name": "Norman Granz",
+        "albums": [
+          {
+            "id": 170,
+            "title": "Sweet As Bear Meat / Skokiaan",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 204,
+        "name": "Richie Powell",
+        "albums": [
+          {
+            "id": 170,
+            "title": "Sweet As Bear Meat / Skokiaan",
+            "instrument": "Piano"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1957,
+    "musicians": [
+      {
+        "id": 24,
+        "name": "\"Philly\" Joe Jones",
+        "albums": [
+          {
+            "id": 171,
+            "title": "'Round About Midnight",
+            "instrument": "Drums"
+          },
+          {
+            "id": 4,
+            "title": "Mating Call",
+            "instrument": "Drums"
+          },
+          {
+            "id": 176,
+            "title": "Whims Of Chambers",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Al Cohn",
+        "albums": [
+          {
+            "id": 5,
+            "title": "Tenor Conclave",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 303,
+        "name": "Al Jones",
+        "albums": [
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Albert Heath",
+        "albums": [
+          {
+            "id": 3,
+            "title": "Coltrane",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Art Blakey",
+        "albums": [
+          {
+            "id": 173,
+            "title": "A Blowing Session",
+            "instrument": "Drums"
+          },
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Art Taylor",
+        "albums": [
+          {
+            "id": 1,
+            "title": "Interplay For 2 Trumpets And 2 Tenors",
+            "instrument": "Drums"
+          },
+          {
+            "id": 2,
+            "title": "Mal/2",
+            "instrument": "Drums"
+          },
+          {
+            "id": 172,
+            "title": "Taylor's Wailers",
+            "instrument": "Drums"
+          },
+          {
+            "id": 5,
+            "title": "Tenor Conclave",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 319,
+        "name": "Bernie Griggs",
+        "albums": [
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Bill Graham",
+        "albums": [
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Alto Saxophone, Baritone Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Bill Hardman",
+        "albums": [
+          {
+            "id": 2,
+            "title": "Mal/2",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Bob Weinstock",
+        "albums": [
+          {
+            "id": 3,
+            "title": "Coltrane",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 1,
+            "title": "Interplay For 2 Trumpets And 2 Tenors",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 2,
+            "title": "Mal/2",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 4,
+            "title": "Mating Call",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 172,
+            "title": "Taylor's Wailers",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 5,
+            "title": "Tenor Conclave",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Bobby Jaspar",
+        "albums": [
+          {
+            "id": 1,
+            "title": "Interplay For 2 Trumpets And 2 Tenors",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 304,
+        "name": "Budd Johnson",
+        "albums": [
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 317,
+        "name": "Charlie Rouse",
+        "albums": [
+          {
+            "id": 172,
+            "title": "Taylor's Wailers",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 206,
+        "name": "Dizzy Gillespie",
+        "albums": [
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Donald Byrd",
+        "albums": [
+          {
+            "id": 172,
+            "title": "Taylor's Wailers",
+            "instrument": "Trumpet"
+          },
+          {
+            "id": 176,
+            "title": "Whims Of Chambers",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Ed Thigpen",
+        "albums": [
+          {
+            "id": 2,
+            "title": "Mal/2",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Esmond Edwards",
+        "albums": [
+          {
+            "id": 4,
+            "title": "Mating Call",
+            "instrument": "Cover"
+          }
+        ]
+      },
+      {
+        "id": 308,
+        "name": "Freddy Strong",
+        "albums": [
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Vocals"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "Hank Mobley",
+        "albums": [
+          {
+            "id": 173,
+            "title": "A Blowing Session",
+            "instrument": "Tenor Saxophone"
+          },
+          {
+            "id": 5,
+            "title": "Tenor Conclave",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 321,
+        "name": "Horace Silver",
+        "albums": [
+          {
+            "id": 176,
+            "title": "Whims Of Chambers",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Idrees Sulieman",
+        "albums": [
+          {
+            "id": 1,
+            "title": "Interplay For 2 Trumpets And 2 Tenors",
+            "instrument": "Performer"
+          },
+          {
+            "id": 2,
+            "title": "Mal/2",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 305,
+        "name": "J.J. Johnson",
+        "albums": [
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Jackie McLean",
+        "albums": [
+          {
+            "id": 2,
+            "title": "Mal/2",
+            "instrument": "Alto Saxophone"
+          },
+          {
+            "id": 172,
+            "title": "Taylor's Wailers",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 307,
+        "name": "Joe Carroll",
+        "albums": [
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "John Simmons",
+        "albums": [
+          {
+            "id": 4,
+            "title": "Mating Call",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 318,
+        "name": "Johnny Griffin",
+        "albums": [
+          {
+            "id": 173,
+            "title": "A Blowing Session",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Johnny Splawn",
+        "albums": [
+          {
+            "id": 3,
+            "title": "Coltrane",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Julian Euell",
+        "albums": [
+          {
+            "id": 2,
+            "title": "Mal/2",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 286,
+        "name": "Kansas Fields",
+        "albums": [
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Kenny Burrell",
+        "albums": [
+          {
+            "id": 1,
+            "title": "Interplay For 2 Trumpets And 2 Tenors",
+            "instrument": "Guitar"
+          },
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Guitar"
+          },
+          {
+            "id": 176,
+            "title": "Whims Of Chambers",
+            "instrument": "Guitar"
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "name": "Lee Morgan",
+        "albums": [
+          {
+            "id": 173,
+            "title": "A Blowing Session",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Mal Waldron",
+        "albums": [
+          {
+            "id": 3,
+            "title": "Coltrane",
+            "instrument": "Piano"
+          },
+          {
+            "id": 1,
+            "title": "Interplay For 2 Trumpets And 2 Tenors",
+            "instrument": "Performer"
+          },
+          {
+            "id": 2,
+            "title": "Mal/2",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 309,
+        "name": "Melvin Moore (8)",
+        "albums": [
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Vocals"
+          }
+        ]
+      },
+      {
+        "id": 135,
+        "name": "Miles Davis",
+        "albums": [
+          {
+            "id": 171,
+            "title": "'Round About Midnight",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "name": "Milt Jackson",
+        "albums": [
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Organ, Vocals"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Paul Chambers (3)",
+        "albums": [
+          {
+            "id": 171,
+            "title": "'Round About Midnight",
+            "instrument": "Bass"
+          },
+          {
+            "id": 173,
+            "title": "A Blowing Session",
+            "instrument": "Bass"
+          },
+          {
+            "id": 3,
+            "title": "Coltrane",
+            "instrument": "Bass"
+          },
+          {
+            "id": 1,
+            "title": "Interplay For 2 Trumpets And 2 Tenors",
+            "instrument": "Bass"
+          },
+          {
+            "id": 172,
+            "title": "Taylor's Wailers",
+            "instrument": "Bass"
+          },
+          {
+            "id": 5,
+            "title": "Tenor Conclave",
+            "instrument": "Bass"
+          },
+          {
+            "id": 176,
+            "title": "Whims Of Chambers",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 320,
+        "name": "Paul Chambers Sextet",
+        "albums": [
+          {
+            "id": 176,
+            "title": "Whims Of Chambers",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 126,
+        "name": "Percy Heath",
+        "albums": [
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 316,
+        "name": "Ray Bryant",
+        "albums": [
+          {
+            "id": 172,
+            "title": "Taylor's Wailers",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Red Garland",
+        "albums": [
+          {
+            "id": 171,
+            "title": "'Round About Midnight",
+            "instrument": "Piano"
+          },
+          {
+            "id": 3,
+            "title": "Coltrane",
+            "instrument": "Piano"
+          },
+          {
+            "id": 172,
+            "title": "Taylor's Wailers",
+            "instrument": "Piano"
+          },
+          {
+            "id": 5,
+            "title": "Tenor Conclave",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Richard Jennings (2)",
+        "albums": [
+          {
+            "id": 2,
+            "title": "Mal/2",
+            "instrument": "Painting"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Rudy Van Gelder",
+        "albums": [
+          {
+            "id": 3,
+            "title": "Coltrane",
+            "instrument": "Lacquer Cut By"
+          },
+          {
+            "id": 172,
+            "title": "Taylor's Wailers",
+            "instrument": "Lacquer Cut By"
+          },
+          {
+            "id": 5,
+            "title": "Tenor Conclave",
+            "instrument": "Lacquer Cut By"
+          },
+          {
+            "id": 176,
+            "title": "Whims Of Chambers",
+            "instrument": "Lacquer Cut By"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Sahib Shihab",
+        "albums": [
+          {
+            "id": 3,
+            "title": "Coltrane",
+            "instrument": "Baritone Saxophone"
+          },
+          {
+            "id": 2,
+            "title": "Mal/2",
+            "instrument": "Alto Saxophone, Baritone Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 306,
+        "name": "Stuff Smith",
+        "albums": [
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Violin"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Tadd Dameron",
+        "albums": [
+          {
+            "id": 4,
+            "title": "Mating Call",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 134,
+        "name": "The Miles Davis Quintet",
+        "albums": [
+          {
+            "id": 171,
+            "title": "'Round About Midnight",
+            "instrument": "Ensemble"
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "name": "Thelonious Monk",
+        "albums": [
+          {
+            "id": 175,
+            "title": "Thelonious Himself",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Tom Hannan",
+        "albums": [
+          {
+            "id": 4,
+            "title": "Mating Call",
+            "instrument": "Cover"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Webster Young",
+        "albums": [
+          {
+            "id": 1,
+            "title": "Interplay For 2 Trumpets And 2 Tenors",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "name": "Wendell Marshall",
+        "albums": [
+          {
+            "id": 172,
+            "title": "Taylor's Wailers",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "name": "Wilbur Ware",
+        "albums": [
+          {
+            "id": 175,
+            "title": "Thelonious Himself",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Wynton Kelly",
+        "albums": [
+          {
+            "id": 173,
+            "title": "A Blowing Session",
+            "instrument": "Piano"
+          },
+          {
+            "id": 174,
+            "title": "School Days",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Zoot Sims",
+        "albums": [
+          {
+            "id": 5,
+            "title": "Tenor Conclave",
+            "instrument": "Performer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1958,
+    "musicians": [
+      {
+        "id": 24,
+        "name": "\"Philly\" Joe Jones",
+        "albums": [
+          {
+            "id": 12,
+            "title": "Blue Train",
+            "instrument": "Drums"
+          },
+          {
+            "id": 181,
+            "title": "Milestones",
+            "instrument": "Drums"
+          },
+          {
+            "id": 178,
+            "title": "Relaxin' With The Miles Davis Quintet",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 323,
+        "name": "Addison Farmer",
+        "albums": [
+          {
+            "id": 177,
+            "title": "Modern Jazz Survey 2 / Baritones & French Horns",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "name": "Art Farmer",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Art Taylor",
+        "albums": [
+          {
+            "id": 13,
+            "title": "John Coltrane With The Red Garland Trio",
+            "instrument": "Drums"
+          },
+          {
+            "id": 179,
+            "title": "Sonny's Crib",
+            "instrument": "Drums"
+          },
+          {
+            "id": 10,
+            "title": "Soultrane",
+            "instrument": "Drums"
+          },
+          {
+            "id": 8,
+            "title": "Wheelin' & Dealin'",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 337,
+        "name": "Barry Galbraith",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Guitar"
+          }
+        ]
+      },
+      {
+        "id": 340,
+        "name": "Ben Webster",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 338,
+        "name": "Betty Glamann",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Harp"
+          }
+        ]
+      },
+      {
+        "id": 136,
+        "name": "Bill Evans",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 342,
+        "name": "Billy Byers",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Bob Weinstock",
+        "albums": [
+          {
+            "id": 13,
+            "title": "John Coltrane With The Red Garland Trio",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 178,
+            "title": "Relaxin' With The Miles Davis Quintet",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 10,
+            "title": "Soultrane",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 8,
+            "title": "Wheelin' & Dealin'",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "name": "Cannonball Adderley",
+        "albums": [
+          {
+            "id": 181,
+            "title": "Milestones",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "name": "Cecil Payne",
+        "albums": [
+          {
+            "id": 177,
+            "title": "Modern Jazz Survey 2 / Baritones & French Horns",
+            "instrument": "Baritone Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Curtis Fuller",
+        "albums": [
+          {
+            "id": 12,
+            "title": "Blue Train",
+            "instrument": "Trombone"
+          },
+          {
+            "id": 177,
+            "title": "Modern Jazz Survey 2 / Baritones & French Horns",
+            "instrument": "Trombone"
+          },
+          {
+            "id": 179,
+            "title": "Sonny's Crib",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 322,
+        "name": "David Amram",
+        "albums": [
+          {
+            "id": 177,
+            "title": "Modern Jazz Survey 2 / Baritones & French Horns",
+            "instrument": "French Horn"
+          }
+        ]
+      },
+      {
+        "id": 346,
+        "name": "Don Elliott",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Vibraphone"
+          }
+        ]
+      },
+      {
+        "id": 333,
+        "name": "Don Lamond",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Donald Byrd",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Trumpet"
+          },
+          {
+            "id": 179,
+            "title": "Sonny's Crib",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Doug Watkins",
+        "albums": [
+          {
+            "id": 7,
+            "title": "Mainstream 1958",
+            "instrument": "Bass"
+          },
+          {
+            "id": 177,
+            "title": "Modern Jazz Survey 2 / Baritones & French Horns",
+            "instrument": "Bass"
+          },
+          {
+            "id": 8,
+            "title": "Wheelin' & Dealin'",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 343,
+        "name": "Eddie Bert",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "name": "Eddie Costa",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Vibraphone"
+          }
+        ]
+      },
+      {
+        "id": 344,
+        "name": "Ernie Royal",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Esmond Edwards",
+        "albums": [
+          {
+            "id": 10,
+            "title": "Soultrane",
+            "instrument": "Cover"
+          },
+          {
+            "id": 8,
+            "title": "Wheelin' & Dealin'",
+            "instrument": "Cover"
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "name": "Frank Rehak",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Frank Wess",
+        "albums": [
+          {
+            "id": 8,
+            "title": "Wheelin' & Dealin'",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "name": "Gene Quill",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 330,
+        "name": "George Duvivier",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Gil Coggins",
+        "albums": [
+          {
+            "id": 6,
+            "title": "The Ray Draper Quintet Featuring John Coltrane",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 325,
+        "name": "Hampton Hawes",
+        "albums": [
+          {
+            "id": 177,
+            "title": "Modern Jazz Survey 2 / Baritones & French Horns",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "name": "Hank Jones",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 336,
+        "name": "Herbie Mann",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Flute"
+          }
+        ]
+      },
+      {
+        "id": 172,
+        "name": "Jerome Richardson",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Baritone Saxophone, Bass Clarinet"
+          }
+        ]
+      },
+      {
+        "id": 324,
+        "name": "Jerry Segal",
+        "albums": [
+          {
+            "id": 177,
+            "title": "Modern Jazz Survey 2 / Baritones & French Horns",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 179,
+        "name": "Jim Buffington",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "French Horn"
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "name": "Jimmy Cleveland",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 345,
+        "name": "Joe Wilder",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 154,
+        "name": "Julius Watkins",
+        "albums": [
+          {
+            "id": 177,
+            "title": "Modern Jazz Survey 2 / Baritones & French Horns",
+            "instrument": "French Horn"
+          }
+        ]
+      },
+      {
+        "id": 334,
+        "name": "Kenny Dennis",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Kenny Drew",
+        "albums": [
+          {
+            "id": 12,
+            "title": "Blue Train",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "Larry Ritchie",
+        "albums": [
+          {
+            "id": 6,
+            "title": "The Ray Draper Quintet Featuring John Coltrane",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "name": "Lee Morgan",
+        "albums": [
+          {
+            "id": 12,
+            "title": "Blue Train",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Louis Hayes",
+        "albums": [
+          {
+            "id": 7,
+            "title": "Mainstream 1958",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 332,
+        "name": "Major Holley",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Bass, Tuba"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Mal Waldron",
+        "albums": [
+          {
+            "id": 177,
+            "title": "Modern Jazz Survey 2 / Baritones & French Horns",
+            "instrument": "Piano"
+          },
+          {
+            "id": 8,
+            "title": "Wheelin' & Dealin'",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "name": "Marc Rice",
+        "albums": [
+          {
+            "id": 13,
+            "title": "John Coltrane With The Red Garland Trio",
+            "instrument": "Cover"
+          }
+        ]
+      },
+      {
+        "id": 327,
+        "name": "Michel Legrand",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 135,
+        "name": "Miles Davis",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Performer"
+          },
+          {
+            "id": 181,
+            "title": "Milestones",
+            "instrument": "Performer"
+          },
+          {
+            "id": 178,
+            "title": "Relaxin' With The Miles Davis Quintet",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 331,
+        "name": "Milt Hinton",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 339,
+        "name": "Nat Pierce",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 335,
+        "name": "Osie Johnson",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Ozzie Cadena",
+        "albums": [
+          {
+            "id": 7,
+            "title": "Mainstream 1958",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Paul Chambers (3)",
+        "albums": [
+          {
+            "id": 12,
+            "title": "Blue Train",
+            "instrument": "Bass"
+          },
+          {
+            "id": 13,
+            "title": "John Coltrane With The Red Garland Trio",
+            "instrument": "Bass"
+          },
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Bass"
+          },
+          {
+            "id": 181,
+            "title": "Milestones",
+            "instrument": "Bass"
+          },
+          {
+            "id": 178,
+            "title": "Relaxin' With The Miles Davis Quintet",
+            "instrument": "Bass"
+          },
+          {
+            "id": 179,
+            "title": "Sonny's Crib",
+            "instrument": "Bass"
+          },
+          {
+            "id": 10,
+            "title": "Soultrane",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Paul Quinichette",
+        "albums": [
+          {
+            "id": 8,
+            "title": "Wheelin' & Dealin'",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "name": "Pepper Adams",
+        "albums": [
+          {
+            "id": 177,
+            "title": "Modern Jazz Survey 2 / Baritones & French Horns",
+            "instrument": "Baritone Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 328,
+        "name": "Phil Woods",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Ray Draper",
+        "albums": [
+          {
+            "id": 6,
+            "title": "The Ray Draper Quintet Featuring John Coltrane",
+            "instrument": "Tuba"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Red Garland",
+        "albums": [
+          {
+            "id": 13,
+            "title": "John Coltrane With The Red Garland Trio",
+            "instrument": "Piano"
+          },
+          {
+            "id": 181,
+            "title": "Milestones",
+            "instrument": "Piano"
+          },
+          {
+            "id": 178,
+            "title": "Relaxin' With The Miles Davis Quintet",
+            "instrument": "Piano"
+          },
+          {
+            "id": 10,
+            "title": "Soultrane",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Rudy Van Gelder",
+        "albums": [
+          {
+            "id": 12,
+            "title": "Blue Train",
+            "instrument": "Lacquer Cut By"
+          },
+          {
+            "id": 178,
+            "title": "Relaxin' With The Miles Davis Quintet",
+            "instrument": "Lacquer Cut By"
+          },
+          {
+            "id": 179,
+            "title": "Sonny's Crib",
+            "instrument": "Lacquer Cut By"
+          },
+          {
+            "id": 10,
+            "title": "Soultrane",
+            "instrument": "Lacquer Cut By"
+          },
+          {
+            "id": 8,
+            "title": "Wheelin' & Dealin'",
+            "instrument": "Lacquer Cut By"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Sahib Shihab",
+        "albums": [
+          {
+            "id": 177,
+            "title": "Modern Jazz Survey 2 / Baritones & French Horns",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 341,
+        "name": "Seldon Powell",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 326,
+        "name": "Sonny Clark",
+        "albums": [
+          {
+            "id": 179,
+            "title": "Sonny's Crib",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Spanky DeBrest",
+        "albums": [
+          {
+            "id": 6,
+            "title": "The Ray Draper Quintet Featuring John Coltrane",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 98,
+        "name": "Teddy Charles",
+        "albums": [
+          {
+            "id": 177,
+            "title": "Modern Jazz Survey 2 / Baritones & French Horns",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 329,
+        "name": "Teo Macero",
+        "albums": [
+          {
+            "id": 180,
+            "title": "Legrand Jazz",
+            "instrument": "Baritone Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 134,
+        "name": "The Miles Davis Quintet",
+        "albums": [
+          {
+            "id": 178,
+            "title": "Relaxin' With The Miles Davis Quintet",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "name": "The Ray Draper Quintet",
+        "albums": [
+          {
+            "id": 6,
+            "title": "The Ray Draper Quintet Featuring John Coltrane",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "name": "The Red Garland Trio",
+        "albums": [
+          {
+            "id": 13,
+            "title": "John Coltrane With The Red Garland Trio",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Tommy Flanagan",
+        "albums": [
+          {
+            "id": 7,
+            "title": "Mainstream 1958",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Wilbur Harden",
+        "albums": [
+          {
+            "id": 7,
+            "title": "Mainstream 1958",
+            "instrument": "Flugelhorn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1959,
+    "musicians": [
+      {
+        "id": 26,
+        "name": "Al Cohn",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 348,
+        "name": "Al Epstein",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Bongos"
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "name": "Art Farmer",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 363,
+        "name": "Barney Wilen",
+        "albums": [
+          {
+            "id": 184,
+            "title": "Jazz Track",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 337,
+        "name": "Barry Galbraith",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Guitar"
+          }
+        ]
+      },
+      {
+        "id": 352,
+        "name": "Benny Golson",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 136,
+        "name": "Bill Evans",
+        "albums": [
+          {
+            "id": 184,
+            "title": "Jazz Track",
+            "instrument": "Piano"
+          },
+          {
+            "id": 182,
+            "title": "Kind Of Blue",
+            "instrument": "Piano"
+          },
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 356,
+        "name": "Bob Brookmeyer",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "name": "Cannonball Adderley",
+        "albums": [
+          {
+            "id": 184,
+            "title": "Jazz Track",
+            "instrument": "Alto Saxophone"
+          },
+          {
+            "id": 182,
+            "title": "Kind Of Blue",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 349,
+        "name": "Charlie Persip",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 358,
+        "name": "Doc Severinsen",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 333,
+        "name": "Don Lamond",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Doug Watkins",
+        "albums": [
+          {
+            "id": 15,
+            "title": "The Cats",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Ed Thigpen",
+        "albums": [
+          {
+            "id": 14,
+            "title": "Cattin' With Coltrane And Quinichette",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 344,
+        "name": "Ernie Royal",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "name": "Frank Rehak",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 353,
+        "name": "Gene Allen",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 330,
+        "name": "George Duvivier",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 347,
+        "name": "George Russell Orchestra",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 354,
+        "name": "Hal McKusick",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Idrees Sulieman",
+        "albums": [
+          {
+            "id": 15,
+            "title": "The Cats",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "name": "Jimmy Cleveland",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Jimmy Cobb",
+        "albums": [
+          {
+            "id": 184,
+            "title": "Jazz Track",
+            "instrument": "Drums"
+          },
+          {
+            "id": 182,
+            "title": "Kind Of Blue",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 359,
+        "name": "Joe Ferrante",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 345,
+        "name": "Joe Wilder",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 351,
+        "name": "Jon Hendricks",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Narrator"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Julian Euell",
+        "albums": [
+          {
+            "id": 14,
+            "title": "Cattin' With Coltrane And Quinichette",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Kenny Burrell",
+        "albums": [
+          {
+            "id": 15,
+            "title": "The Cats",
+            "instrument": "Guitar"
+          }
+        ]
+      },
+      {
+        "id": 361,
+        "name": "Kenny Clarke",
+        "albums": [
+          {
+            "id": 184,
+            "title": "Jazz Track",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Louis Hayes",
+        "albums": [
+          {
+            "id": 15,
+            "title": "The Cats",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Mal Waldron",
+        "albums": [
+          {
+            "id": 14,
+            "title": "Cattin' With Coltrane And Quinichette",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 350,
+        "name": "Max Roach",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 135,
+        "name": "Miles Davis",
+        "albums": [
+          {
+            "id": 184,
+            "title": "Jazz Track",
+            "instrument": "Performer"
+          },
+          {
+            "id": 182,
+            "title": "Kind Of Blue",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 331,
+        "name": "Milt Hinton",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Paul Chambers (3)",
+        "albums": [
+          {
+            "id": 184,
+            "title": "Jazz Track",
+            "instrument": "Bass"
+          },
+          {
+            "id": 182,
+            "title": "Kind Of Blue",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Paul Quinichette",
+        "albums": [
+          {
+            "id": 14,
+            "title": "Cattin' With Coltrane And Quinichette",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 328,
+        "name": "Phil Woods",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 360,
+        "name": "Pierre Michelot",
+        "albums": [
+          {
+            "id": 184,
+            "title": "Jazz Track",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 362,
+        "name": "Ren\u00e9 Urtreger",
+        "albums": [
+          {
+            "id": 184,
+            "title": "Jazz Track",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Rudy Van Gelder",
+        "albums": [
+          {
+            "id": 14,
+            "title": "Cattin' With Coltrane And Quinichette",
+            "instrument": "Lacquer Cut By"
+          }
+        ]
+      },
+      {
+        "id": 355,
+        "name": "Sol Schlinger",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 357,
+        "name": "Thomas Mitchell",
+        "albums": [
+          {
+            "id": 183,
+            "title": "New York, N.Y.",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Tommy Flanagan",
+        "albums": [
+          {
+            "id": 15,
+            "title": "The Cats",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Wynton Kelly",
+        "albums": [
+          {
+            "id": 182,
+            "title": "Kind Of Blue",
+            "instrument": "Piano"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1960,
+    "musicians": [
+      {
+        "id": 24,
+        "name": "\"Philly\" Joe Jones",
+        "albums": [
+          {
+            "id": 16,
+            "title": "Chambers' Music",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Art Taylor",
+        "albums": [
+          {
+            "id": 18,
+            "title": "Giant Steps",
+            "instrument": "Drums"
+          },
+          {
+            "id": 19,
+            "title": "Soul Junction",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Bob Weinstock",
+        "albums": [
+          {
+            "id": 19,
+            "title": "Soul Junction",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Donald Byrd",
+        "albums": [
+          {
+            "id": 19,
+            "title": "Soul Junction",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "George Joyner",
+        "albums": [
+          {
+            "id": 19,
+            "title": "Soul Junction",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Jimmy Cobb",
+        "albums": [
+          {
+            "id": 18,
+            "title": "Giant Steps",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Kenny Drew",
+        "albums": [
+          {
+            "id": 16,
+            "title": "Chambers' Music",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Nesuhi Ertegun",
+        "albums": [
+          {
+            "id": 18,
+            "title": "Giant Steps",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Paul Chambers (3)",
+        "albums": [
+          {
+            "id": 16,
+            "title": "Chambers' Music",
+            "instrument": "Bass"
+          },
+          {
+            "id": 18,
+            "title": "Giant Steps",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Red Garland",
+        "albums": [
+          {
+            "id": 19,
+            "title": "Soul Junction",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Rudy Van Gelder",
+        "albums": [
+          {
+            "id": 19,
+            "title": "Soul Junction",
+            "instrument": "Lacquer Cut By"
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Sid Herison",
+        "albums": [
+          {
+            "id": 16,
+            "title": "Chambers' Music",
+            "instrument": "Cover"
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "name": "The Red Garland Quintet",
+        "albums": [
+          {
+            "id": 19,
+            "title": "Soul Junction",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Tommy Flanagan",
+        "albums": [
+          {
+            "id": 18,
+            "title": "Giant Steps",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Wynton Kelly",
+        "albums": [
+          {
+            "id": 18,
+            "title": "Giant Steps",
+            "instrument": "Piano"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1961,
+    "musicians": [
+      {
+        "id": 24,
+        "name": "\"Philly\" Joe Jones",
+        "albums": [
+          {
+            "id": 20,
+            "title": "John Coltrane In The Winner's Circle",
+            "instrument": "Drums"
+          },
+          {
+            "id": 185,
+            "title": "Steamin' With The Miles Davis Quintet",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Al Cohn",
+        "albums": [
+          {
+            "id": 20,
+            "title": "John Coltrane In The Winner's Circle",
+            "instrument": "Baritone Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Albert Heath",
+        "albums": [
+          {
+            "id": 23,
+            "title": "Lush Life",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Art Blakey",
+        "albums": [
+          {
+            "id": 22,
+            "title": "Thelonious Monk With John Coltrane",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 85,
+        "name": "Art Davis",
+        "albums": [
+          {
+            "id": 29,
+            "title": "Ol\u00e9 Coltrane",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "name": "Art Farmer",
+        "albums": [
+          {
+            "id": 20,
+            "title": "John Coltrane In The Winner's Circle",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Art Taylor",
+        "albums": [
+          {
+            "id": 186,
+            "title": "Groove Blues",
+            "instrument": "Drums"
+          },
+          {
+            "id": 26,
+            "title": "High Pressure",
+            "instrument": "Drums"
+          },
+          {
+            "id": 23,
+            "title": "Lush Life",
+            "instrument": "Drums"
+          },
+          {
+            "id": 24,
+            "title": "Settin' The Pace",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Bob Weinstock",
+        "albums": [
+          {
+            "id": 186,
+            "title": "Groove Blues",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 26,
+            "title": "High Pressure",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 24,
+            "title": "Settin' The Pace",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 185,
+            "title": "Steamin' With The Miles Davis Quintet",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "name": "Coleman Hawkins",
+        "albums": [
+          {
+            "id": 22,
+            "title": "Thelonious Monk With John Coltrane",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 82,
+        "name": "Connie Kay",
+        "albums": [
+          {
+            "id": 27,
+            "title": "Bags & Trane",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Donald Byrd",
+        "albums": [
+          {
+            "id": 26,
+            "title": "High Pressure",
+            "instrument": "Performer"
+          },
+          {
+            "id": 20,
+            "title": "John Coltrane In The Winner's Circle",
+            "instrument": "Trumpet"
+          },
+          {
+            "id": 23,
+            "title": "Lush Life",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "name": "Earl May",
+        "albums": [
+          {
+            "id": 23,
+            "title": "Lush Life",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Ed Thigpen",
+        "albums": [
+          {
+            "id": 20,
+            "title": "John Coltrane In The Winner's Circle",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "name": "Eddie Costa",
+        "albums": [
+          {
+            "id": 20,
+            "title": "John Coltrane In The Winner's Circle",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "name": "Elvin Jones",
+        "albums": [
+          {
+            "id": 25,
+            "title": "Coltrane Jazz",
+            "instrument": "Drums"
+          },
+          {
+            "id": 28,
+            "title": "My Favorite Things",
+            "instrument": "Drums"
+          },
+          {
+            "id": 29,
+            "title": "Ol\u00e9 Coltrane",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Esmond Edwards",
+        "albums": [
+          {
+            "id": 23,
+            "title": "Lush Life",
+            "instrument": "Cover"
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "name": "Frank Rehak",
+        "albums": [
+          {
+            "id": 20,
+            "title": "John Coltrane In The Winner's Circle",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "name": "Freddie Green",
+        "albums": [
+          {
+            "id": 20,
+            "title": "John Coltrane In The Winner's Circle",
+            "instrument": "Guitar"
+          }
+        ]
+      },
+      {
+        "id": 87,
+        "name": "Freddie Hubbard",
+        "albums": [
+          {
+            "id": 29,
+            "title": "Ol\u00e9 Coltrane",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 173,
+        "name": "Gene Ammons",
+        "albums": [
+          {
+            "id": 186,
+            "title": "Groove Blues",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 171,
+        "name": "Gene Ammons' All Stars",
+        "albums": [
+          {
+            "id": 186,
+            "title": "Groove Blues",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "name": "Gene Quill",
+        "albums": [
+          {
+            "id": 20,
+            "title": "John Coltrane In The Winner's Circle",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "George Joyner",
+        "albums": [
+          {
+            "id": 186,
+            "title": "Groove Blues",
+            "instrument": "Bass"
+          },
+          {
+            "id": 26,
+            "title": "High Pressure",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 84,
+        "name": "George Lane",
+        "albums": [
+          {
+            "id": 29,
+            "title": "Ol\u00e9 Coltrane",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "name": "Gigi Gryce",
+        "albums": [
+          {
+            "id": 22,
+            "title": "Thelonious Monk With John Coltrane",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "name": "Hank Jones",
+        "albums": [
+          {
+            "id": 27,
+            "title": "Bags & Trane",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "Hank Mobley",
+        "albums": [
+          {
+            "id": 187,
+            "title": "Someday My Prince Will Come",
+            "instrument": "Featuring"
+          }
+        ]
+      },
+      {
+        "id": 172,
+        "name": "Jerome Richardson",
+        "albums": [
+          {
+            "id": 186,
+            "title": "Groove Blues",
+            "instrument": "Flute"
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Jimmy Cobb",
+        "albums": [
+          {
+            "id": 25,
+            "title": "Coltrane Jazz",
+            "instrument": "Drums"
+          },
+          {
+            "id": 187,
+            "title": "Someday My Prince Will Come",
+            "instrument": "Featuring"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Kenny Burrell",
+        "albums": [
+          {
+            "id": 20,
+            "title": "John Coltrane In The Winner's Circle",
+            "instrument": "Guitar"
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Louis Hayes",
+        "albums": [
+          {
+            "id": 23,
+            "title": "Lush Life",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Mal Waldron",
+        "albums": [
+          {
+            "id": 186,
+            "title": "Groove Blues",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "name": "McCoy Tyner",
+        "albums": [
+          {
+            "id": 25,
+            "title": "Coltrane Jazz",
+            "instrument": "Piano"
+          },
+          {
+            "id": 28,
+            "title": "My Favorite Things",
+            "instrument": "Piano"
+          },
+          {
+            "id": 29,
+            "title": "Ol\u00e9 Coltrane",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 135,
+        "name": "Miles Davis",
+        "albums": [
+          {
+            "id": 187,
+            "title": "Someday My Prince Will Come",
+            "instrument": "Performer"
+          },
+          {
+            "id": 185,
+            "title": "Steamin' With The Miles Davis Quintet",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "name": "Milt Jackson",
+        "albums": [
+          {
+            "id": 27,
+            "title": "Bags & Trane",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Nesuhi Ertegun",
+        "albums": [
+          {
+            "id": 27,
+            "title": "Bags & Trane",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 28,
+            "title": "My Favorite Things",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 29,
+            "title": "Ol\u00e9 Coltrane",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "name": "Oscar Pettiford",
+        "albums": [
+          {
+            "id": 20,
+            "title": "John Coltrane In The Winner's Circle",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Paul Chambers (3)",
+        "albums": [
+          {
+            "id": 27,
+            "title": "Bags & Trane",
+            "instrument": "Bass"
+          },
+          {
+            "id": 25,
+            "title": "Coltrane Jazz",
+            "instrument": "Bass"
+          },
+          {
+            "id": 23,
+            "title": "Lush Life",
+            "instrument": "Bass"
+          },
+          {
+            "id": 24,
+            "title": "Settin' The Pace",
+            "instrument": "Bass"
+          },
+          {
+            "id": 187,
+            "title": "Someday My Prince Will Come",
+            "instrument": "Featuring"
+          },
+          {
+            "id": 185,
+            "title": "Steamin' With The Miles Davis Quintet",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Paul Quinichette",
+        "albums": [
+          {
+            "id": 186,
+            "title": "Groove Blues",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "name": "Pepper Adams",
+        "albums": [
+          {
+            "id": 186,
+            "title": "Groove Blues",
+            "instrument": "Baritone Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "name": "Prophet (22)",
+        "albums": [
+          {
+            "id": 22,
+            "title": "Thelonious Monk With John Coltrane",
+            "instrument": "Cover"
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "name": "Ray Copeland",
+        "albums": [
+          {
+            "id": 22,
+            "title": "Thelonious Monk With John Coltrane",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Red Garland",
+        "albums": [
+          {
+            "id": 26,
+            "title": "High Pressure",
+            "instrument": "Piano"
+          },
+          {
+            "id": 23,
+            "title": "Lush Life",
+            "instrument": "Piano"
+          },
+          {
+            "id": 24,
+            "title": "Settin' The Pace",
+            "instrument": "Piano"
+          },
+          {
+            "id": 185,
+            "title": "Steamin' With The Miles Davis Quintet",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "name": "Reggie Workman",
+        "albums": [
+          {
+            "id": 29,
+            "title": "Ol\u00e9 Coltrane",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Richard Jennings (2)",
+        "albums": [
+          {
+            "id": 22,
+            "title": "Thelonious Monk With John Coltrane",
+            "instrument": "Painting"
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "name": "Rolf K\u00fchn",
+        "albums": [
+          {
+            "id": 20,
+            "title": "John Coltrane In The Winner's Circle",
+            "instrument": "Clarinet"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Rudy Van Gelder",
+        "albums": [
+          {
+            "id": 186,
+            "title": "Groove Blues",
+            "instrument": "Lacquer Cut By"
+          },
+          {
+            "id": 23,
+            "title": "Lush Life",
+            "instrument": "Lacquer Cut By"
+          },
+          {
+            "id": 24,
+            "title": "Settin' The Pace",
+            "instrument": "Lacquer Cut By"
+          },
+          {
+            "id": 185,
+            "title": "Steamin' With The Miles Davis Quintet",
+            "instrument": "Lacquer Cut By"
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "name": "Shadow Wilson",
+        "albums": [
+          {
+            "id": 22,
+            "title": "Thelonious Monk With John Coltrane",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "name": "Steve Davis",
+        "albums": [
+          {
+            "id": 25,
+            "title": "Coltrane Jazz",
+            "instrument": "Bass"
+          },
+          {
+            "id": 28,
+            "title": "My Favorite Things",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 134,
+        "name": "The Miles Davis Quintet",
+        "albums": [
+          {
+            "id": 185,
+            "title": "Steamin' With The Miles Davis Quintet",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 105,
+        "name": "The Miles Davis Sextet",
+        "albums": [
+          {
+            "id": 187,
+            "title": "Someday My Prince Will Come",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "name": "The Red Garland Quintet",
+        "albums": [
+          {
+            "id": 26,
+            "title": "High Pressure",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "name": "Thelonious Monk",
+        "albums": [
+          {
+            "id": 22,
+            "title": "Thelonious Monk With John Coltrane",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "name": "Wilbur Ware",
+        "albums": [
+          {
+            "id": 22,
+            "title": "Thelonious Monk With John Coltrane",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Wynton Kelly",
+        "albums": [
+          {
+            "id": 25,
+            "title": "Coltrane Jazz",
+            "instrument": "Piano"
+          },
+          {
+            "id": 187,
+            "title": "Someday My Prince Will Come",
+            "instrument": "Featuring"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1962,
+    "musicians": [
+      {
+        "id": 8,
+        "name": "Art Taylor",
+        "albums": [
+          {
+            "id": 33,
+            "title": "Dig It!",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 88,
+        "name": "Bob Slutzky Graphics",
+        "albums": [
+          {
+            "id": 30,
+            "title": "Coltrane Plays The Blues",
+            "instrument": "Cover"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Bob Weinstock",
+        "albums": [
+          {
+            "id": 33,
+            "title": "Dig It!",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 31,
+            "title": "Standard Coltrane",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Donald Byrd",
+        "albums": [
+          {
+            "id": 33,
+            "title": "Dig It!",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "name": "Elvin Jones",
+        "albums": [
+          {
+            "id": 32,
+            "title": "\"Live\" At The Village Vanguard",
+            "instrument": "Drums"
+          },
+          {
+            "id": 30,
+            "title": "Coltrane Plays The Blues",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "name": "Eric Dolphy",
+        "albums": [
+          {
+            "id": 32,
+            "title": "\"Live\" At The Village Vanguard",
+            "instrument": "Bass Clarinet"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "George Joyner",
+        "albums": [
+          {
+            "id": 33,
+            "title": "Dig It!",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Jimmy Cobb",
+        "albums": [
+          {
+            "id": 31,
+            "title": "Standard Coltrane",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 89,
+        "name": "Marty Norman",
+        "albums": [
+          {
+            "id": 30,
+            "title": "Coltrane Plays The Blues",
+            "instrument": "Cover"
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "name": "McCoy Tyner",
+        "albums": [
+          {
+            "id": 32,
+            "title": "\"Live\" At The Village Vanguard",
+            "instrument": "Piano"
+          },
+          {
+            "id": 30,
+            "title": "Coltrane Plays The Blues",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Nesuhi Ertegun",
+        "albums": [
+          {
+            "id": 30,
+            "title": "Coltrane Plays The Blues",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Paul Chambers (3)",
+        "albums": [
+          {
+            "id": 33,
+            "title": "Dig It!",
+            "instrument": "Bass"
+          },
+          {
+            "id": 31,
+            "title": "Standard Coltrane",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Red Garland",
+        "albums": [
+          {
+            "id": 33,
+            "title": "Dig It!",
+            "instrument": "Piano"
+          },
+          {
+            "id": 31,
+            "title": "Standard Coltrane",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "name": "Reggie Workman",
+        "albums": [
+          {
+            "id": 32,
+            "title": "\"Live\" At The Village Vanguard",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Rudy Van Gelder",
+        "albums": [
+          {
+            "id": 32,
+            "title": "\"Live\" At The Village Vanguard",
+            "instrument": "Lacquer Cut By"
+          },
+          {
+            "id": 33,
+            "title": "Dig It!",
+            "instrument": "Lacquer Cut By"
+          },
+          {
+            "id": 31,
+            "title": "Standard Coltrane",
+            "instrument": "Lacquer Cut By"
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "name": "Steve Davis",
+        "albums": [
+          {
+            "id": 30,
+            "title": "Coltrane Plays The Blues",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "name": "The Red Garland Quintet",
+        "albums": [
+          {
+            "id": 33,
+            "title": "Dig It!",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Wilbur Harden",
+        "albums": [
+          {
+            "id": 31,
+            "title": "Standard Coltrane",
+            "instrument": "Trumpet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1963,
+    "musicians": [
+      {
+        "id": 101,
+        "name": "Aaron Bell",
+        "albums": [
+          {
+            "id": 40,
+            "title": "Duke Ellington & John Coltrane",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Art Taylor",
+        "albums": [
+          {
+            "id": 36,
+            "title": "Dakar",
+            "instrument": "Drums"
+          },
+          {
+            "id": 37,
+            "title": "Stardust",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Bob Weinstock",
+        "albums": [
+          {
+            "id": 37,
+            "title": "Stardust",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "name": "Cecil Payne",
+        "albums": [
+          {
+            "id": 36,
+            "title": "Dakar",
+            "instrument": "Baritone Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Doug Watkins",
+        "albums": [
+          {
+            "id": 36,
+            "title": "Dakar",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 100,
+        "name": "Duke Ellington",
+        "albums": [
+          {
+            "id": 40,
+            "title": "Duke Ellington & John Coltrane",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "name": "Elvin Jones",
+        "albums": [
+          {
+            "id": 188,
+            "title": "Ballads",
+            "instrument": "Drums"
+          },
+          {
+            "id": 40,
+            "title": "Duke Ellington & John Coltrane",
+            "instrument": "Performer"
+          },
+          {
+            "id": 41,
+            "title": "Impressions",
+            "instrument": "Drums"
+          },
+          {
+            "id": 42,
+            "title": "John Coltrane And Johnny Hartman",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "name": "Eric Dolphy",
+        "albums": [
+          {
+            "id": 41,
+            "title": "Impressions",
+            "instrument": "Bass Clarinet"
+          }
+        ]
+      },
+      {
+        "id": 87,
+        "name": "Freddie Hubbard",
+        "albums": [
+          {
+            "id": 37,
+            "title": "Stardust",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Jimmy Cobb",
+        "albums": [
+          {
+            "id": 39,
+            "title": "Kenny Burrell & John Coltrane",
+            "instrument": "Drums"
+          },
+          {
+            "id": 37,
+            "title": "Stardust",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "name": "Jimmy Garrison",
+        "albums": [
+          {
+            "id": 188,
+            "title": "Ballads",
+            "instrument": "Bass"
+          },
+          {
+            "id": 40,
+            "title": "Duke Ellington & John Coltrane",
+            "instrument": "Performer"
+          },
+          {
+            "id": 41,
+            "title": "Impressions",
+            "instrument": "Bass"
+          },
+          {
+            "id": 42,
+            "title": "John Coltrane And Johnny Hartman",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "name": "Johnny Hartman",
+        "albums": [
+          {
+            "id": 42,
+            "title": "John Coltrane And Johnny Hartman",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Kenny Burrell",
+        "albums": [
+          {
+            "id": 39,
+            "title": "Kenny Burrell & John Coltrane",
+            "instrument": "Guitar"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Mal Waldron",
+        "albums": [
+          {
+            "id": 36,
+            "title": "Dakar",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "name": "McCoy Tyner",
+        "albums": [
+          {
+            "id": 188,
+            "title": "Ballads",
+            "instrument": "Piano"
+          },
+          {
+            "id": 41,
+            "title": "Impressions",
+            "instrument": "Piano"
+          },
+          {
+            "id": 42,
+            "title": "John Coltrane And Johnny Hartman",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Paul Chambers (3)",
+        "albums": [
+          {
+            "id": 39,
+            "title": "Kenny Burrell & John Coltrane",
+            "instrument": "Bass"
+          },
+          {
+            "id": 37,
+            "title": "Stardust",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "name": "Pepper Adams",
+        "albums": [
+          {
+            "id": 36,
+            "title": "Dakar",
+            "instrument": "Baritone Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Red Garland",
+        "albums": [
+          {
+            "id": 37,
+            "title": "Stardust",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "name": "Reggie Workman",
+        "albums": [
+          {
+            "id": 41,
+            "title": "Impressions",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "name": "Roy Haynes",
+        "albums": [
+          {
+            "id": 41,
+            "title": "Impressions",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Rudy Van Gelder",
+        "albums": [
+          {
+            "id": 188,
+            "title": "Ballads",
+            "instrument": "Lacquer Cut By"
+          },
+          {
+            "id": 41,
+            "title": "Impressions",
+            "instrument": "Lacquer Cut By"
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Sam Woodyard",
+        "albums": [
+          {
+            "id": 40,
+            "title": "Duke Ellington & John Coltrane",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 98,
+        "name": "Teddy Charles",
+        "albums": [
+          {
+            "id": 36,
+            "title": "Dakar",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 364,
+        "name": "The John Coltrane Quartet",
+        "albums": [
+          {
+            "id": 188,
+            "title": "Ballads",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Tommy Flanagan",
+        "albums": [
+          {
+            "id": 39,
+            "title": "Kenny Burrell & John Coltrane",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Wilbur Harden",
+        "albums": [
+          {
+            "id": 37,
+            "title": "Stardust",
+            "instrument": "Flugelhorn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1964,
+    "musicians": [
+      {
+        "id": 24,
+        "name": "\"Philly\" Joe Jones",
+        "albums": [
+          {
+            "id": 11,
+            "title": "Two Tenors",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Art Taylor",
+        "albums": [
+          {
+            "id": 9,
+            "title": "All Mornin' Long",
+            "instrument": "Drums"
+          },
+          {
+            "id": 48,
+            "title": "Black Pearls",
+            "instrument": "Drums"
+          },
+          {
+            "id": 45,
+            "title": "The Believer",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Bob Weinstock",
+        "albums": [
+          {
+            "id": 9,
+            "title": "All Mornin' Long",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 48,
+            "title": "Black Pearls",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Donald Byrd",
+        "albums": [
+          {
+            "id": 9,
+            "title": "All Mornin' Long",
+            "instrument": "Performer"
+          },
+          {
+            "id": 48,
+            "title": "Black Pearls",
+            "instrument": "Trumpet"
+          },
+          {
+            "id": 45,
+            "title": "The Believer",
+            "instrument": "Trumpet"
+          },
+          {
+            "id": 11,
+            "title": "Two Tenors",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "name": "Elmo Hope",
+        "albums": [
+          {
+            "id": 11,
+            "title": "Two Tenors",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "name": "Elvin Jones",
+        "albums": [
+          {
+            "id": 44,
+            "title": "Coltrane's Sound",
+            "instrument": "Drums"
+          },
+          {
+            "id": 47,
+            "title": "Live At Birdland",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Esmond Edwards",
+        "albums": [
+          {
+            "id": 9,
+            "title": "All Mornin' Long",
+            "instrument": "Cover"
+          }
+        ]
+      },
+      {
+        "id": 87,
+        "name": "Freddie Hubbard",
+        "albums": [
+          {
+            "id": 45,
+            "title": "The Believer",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "George Joyner",
+        "albums": [
+          {
+            "id": 9,
+            "title": "All Mornin' Long",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "Hank Mobley",
+        "albums": [
+          {
+            "id": 11,
+            "title": "Two Tenors",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "name": "Jimmy Garrison",
+        "albums": [
+          {
+            "id": 47,
+            "title": "Live At Birdland",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Louis Hayes",
+        "albums": [
+          {
+            "id": 45,
+            "title": "The Believer",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 108,
+        "name": "Marvin Israel",
+        "albums": [
+          {
+            "id": 44,
+            "title": "Coltrane's Sound",
+            "instrument": "Cover"
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "name": "McCoy Tyner",
+        "albums": [
+          {
+            "id": 44,
+            "title": "Coltrane's Sound",
+            "instrument": "Piano"
+          },
+          {
+            "id": 47,
+            "title": "Live At Birdland",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Nesuhi Ertegun",
+        "albums": [
+          {
+            "id": 44,
+            "title": "Coltrane's Sound",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Paul Chambers (3)",
+        "albums": [
+          {
+            "id": 48,
+            "title": "Black Pearls",
+            "instrument": "Bass"
+          },
+          {
+            "id": 45,
+            "title": "The Believer",
+            "instrument": "Bass"
+          },
+          {
+            "id": 11,
+            "title": "Two Tenors",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Red Garland",
+        "albums": [
+          {
+            "id": 9,
+            "title": "All Mornin' Long",
+            "instrument": "Performer"
+          },
+          {
+            "id": 48,
+            "title": "Black Pearls",
+            "instrument": "Piano"
+          },
+          {
+            "id": 45,
+            "title": "The Believer",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Rudy Van Gelder",
+        "albums": [
+          {
+            "id": 9,
+            "title": "All Mornin' Long",
+            "instrument": "Lacquer Cut By"
+          },
+          {
+            "id": 11,
+            "title": "Two Tenors",
+            "instrument": "Lacquer Cut By"
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "name": "Steve Davis",
+        "albums": [
+          {
+            "id": 44,
+            "title": "Coltrane's Sound",
+            "instrument": "Bass"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1965,
+    "musicians": [
+      {
+        "id": 99,
+        "name": "Alvin Jackson",
+        "albums": [
+          {
+            "id": 50,
+            "title": "Tanganyika Strut",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 85,
+        "name": "Art Davis",
+        "albums": [
+          {
+            "id": 189,
+            "title": "The John Coltrane Quartet Plays",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Art Taylor",
+        "albums": [
+          {
+            "id": 52,
+            "title": "Bahia",
+            "instrument": "Drums"
+          },
+          {
+            "id": 50,
+            "title": "Tanganyika Strut",
+            "instrument": "Drums"
+          },
+          {
+            "id": 51,
+            "title": "The Dealers",
+            "instrument": "Drums"
+          },
+          {
+            "id": 49,
+            "title": "The Last Trane",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Bill Hardman",
+        "albums": [
+          {
+            "id": 51,
+            "title": "The Dealers",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Bob Weinstock",
+        "albums": [
+          {
+            "id": 52,
+            "title": "Bahia",
+            "instrument": "Supervised By"
+          },
+          {
+            "id": 49,
+            "title": "The Last Trane",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Curtis Fuller",
+        "albums": [
+          {
+            "id": 50,
+            "title": "Tanganyika Strut",
+            "instrument": "Trombone"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Donald Byrd",
+        "albums": [
+          {
+            "id": 49,
+            "title": "The Last Trane",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Doug Watkins",
+        "albums": [
+          {
+            "id": 51,
+            "title": "The Dealers",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "name": "Earl May",
+        "albums": [
+          {
+            "id": 49,
+            "title": "The Last Trane",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "name": "Elvin Jones",
+        "albums": [
+          {
+            "id": 46,
+            "title": "A Love Supreme",
+            "instrument": "Drums"
+          },
+          {
+            "id": 189,
+            "title": "The John Coltrane Quartet Plays",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Frank Wess",
+        "albums": [
+          {
+            "id": 51,
+            "title": "The Dealers",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 110,
+        "name": "Howard Williams (4)",
+        "albums": [
+          {
+            "id": 50,
+            "title": "Tanganyika Strut",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Jackie McLean",
+        "albums": [
+          {
+            "id": 51,
+            "title": "The Dealers",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Jimmy Cobb",
+        "albums": [
+          {
+            "id": 52,
+            "title": "Bahia",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "name": "Jimmy Garrison",
+        "albums": [
+          {
+            "id": 46,
+            "title": "A Love Supreme",
+            "instrument": "Bass"
+          },
+          {
+            "id": 189,
+            "title": "The John Coltrane Quartet Plays",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Julian Euell",
+        "albums": [
+          {
+            "id": 51,
+            "title": "The Dealers",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Louis Hayes",
+        "albums": [
+          {
+            "id": 49,
+            "title": "The Last Trane",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Mal Waldron",
+        "albums": [
+          {
+            "id": 51,
+            "title": "The Dealers",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "name": "McCoy Tyner",
+        "albums": [
+          {
+            "id": 46,
+            "title": "A Love Supreme",
+            "instrument": "Piano"
+          },
+          {
+            "id": 189,
+            "title": "The John Coltrane Quartet Plays",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Paul Chambers (3)",
+        "albums": [
+          {
+            "id": 52,
+            "title": "Bahia",
+            "instrument": "Bass"
+          },
+          {
+            "id": 49,
+            "title": "The Last Trane",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Paul Quinichette",
+        "albums": [
+          {
+            "id": 51,
+            "title": "The Dealers",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Red Garland",
+        "albums": [
+          {
+            "id": 52,
+            "title": "Bahia",
+            "instrument": "Piano"
+          },
+          {
+            "id": 49,
+            "title": "The Last Trane",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 364,
+        "name": "The John Coltrane Quartet",
+        "albums": [
+          {
+            "id": 189,
+            "title": "The John Coltrane Quartet Plays",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Tommy Flanagan",
+        "albums": [
+          {
+            "id": 50,
+            "title": "Tanganyika Strut",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Wilbur Harden",
+        "albums": [
+          {
+            "id": 52,
+            "title": "Bahia",
+            "instrument": "Trumpet"
+          },
+          {
+            "id": 50,
+            "title": "Tanganyika Strut",
+            "instrument": "Flugelhorn"
+          }
+        ]
+      },
+      {
+        "id": 109,
+        "name": "Wilbur Harden Sextet",
+        "albums": [
+          {
+            "id": 50,
+            "title": "Tanganyika Strut",
+            "instrument": "Ensemble"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "musicians": [
+      {
+        "id": 24,
+        "name": "\"Philly\" Joe Jones",
+        "albums": [
+          {
+            "id": 57,
+            "title": "Tenor Madness",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 128,
+        "name": "Abidin Dino",
+        "albums": [
+          {
+            "id": 58,
+            "title": "The Avant-Garde",
+            "instrument": "Painting"
+          }
+        ]
+      },
+      {
+        "id": 121,
+        "name": "Alice Coltrane",
+        "albums": [
+          {
+            "id": 56,
+            "title": "Live At The Village Vanguard Again!",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 114,
+        "name": "Archie Shepp",
+        "albums": [
+          {
+            "id": 59,
+            "title": "Ascension (Edition I)",
+            "instrument": "Tenor Saxophone"
+          },
+          {
+            "id": 53,
+            "title": "Ascension (Edition II)",
+            "instrument": "Tenor Saxophone"
+          },
+          {
+            "id": 54,
+            "title": "New Thing At Newport",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 85,
+        "name": "Art Davis",
+        "albums": [
+          {
+            "id": 59,
+            "title": "Ascension (Edition I)",
+            "instrument": "Bass"
+          },
+          {
+            "id": 53,
+            "title": "Ascension (Edition II)",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 117,
+        "name": "Barre Phillips",
+        "albums": [
+          {
+            "id": 54,
+            "title": "New Thing At Newport",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Bob Weinstock",
+        "albums": [
+          {
+            "id": 57,
+            "title": "Tenor Madness",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 119,
+        "name": "Bobby Hutcherson",
+        "albums": [
+          {
+            "id": 54,
+            "title": "New Thing At Newport",
+            "instrument": "Vibraphone"
+          }
+        ]
+      },
+      {
+        "id": 125,
+        "name": "Charlie Haden",
+        "albums": [
+          {
+            "id": 58,
+            "title": "The Avant-Garde",
+            "instrument": "Double Bass"
+          }
+        ]
+      },
+      {
+        "id": 116,
+        "name": "Dewey Johnson",
+        "albums": [
+          {
+            "id": 59,
+            "title": "Ascension (Edition I)",
+            "instrument": "Trumpet"
+          },
+          {
+            "id": 53,
+            "title": "Ascension (Edition II)",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 124,
+        "name": "Don Cherry",
+        "albums": [
+          {
+            "id": 58,
+            "title": "The Avant-Garde",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 127,
+        "name": "Ed Blackwell",
+        "albums": [
+          {
+            "id": 58,
+            "title": "The Avant-Garde",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "name": "Elvin Jones",
+        "albums": [
+          {
+            "id": 59,
+            "title": "Ascension (Edition I)",
+            "instrument": "Drums"
+          },
+          {
+            "id": 53,
+            "title": "Ascension (Edition II)",
+            "instrument": "Drums"
+          },
+          {
+            "id": 55,
+            "title": "Meditations",
+            "instrument": "Drums"
+          },
+          {
+            "id": 54,
+            "title": "New Thing At Newport",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 87,
+        "name": "Freddie Hubbard",
+        "albums": [
+          {
+            "id": 59,
+            "title": "Ascension (Edition I)",
+            "instrument": "Trumpet"
+          },
+          {
+            "id": 53,
+            "title": "Ascension (Edition II)",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "name": "Jimmy Garrison",
+        "albums": [
+          {
+            "id": 59,
+            "title": "Ascension (Edition I)",
+            "instrument": "Bass"
+          },
+          {
+            "id": 53,
+            "title": "Ascension (Edition II)",
+            "instrument": "Bass"
+          },
+          {
+            "id": 56,
+            "title": "Live At The Village Vanguard Again!",
+            "instrument": "Bass"
+          },
+          {
+            "id": 55,
+            "title": "Meditations",
+            "instrument": "Bass"
+          },
+          {
+            "id": 54,
+            "title": "New Thing At Newport",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 118,
+        "name": "Joe Chambers",
+        "albums": [
+          {
+            "id": 54,
+            "title": "New Thing At Newport",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 113,
+        "name": "John Coltrane Orchestra",
+        "albums": [
+          {
+            "id": 59,
+            "title": "Ascension (Edition I)",
+            "instrument": "Orchestra"
+          },
+          {
+            "id": 53,
+            "title": "Ascension (Edition II)",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 111,
+        "name": "John Tchicai",
+        "albums": [
+          {
+            "id": 59,
+            "title": "Ascension (Edition I)",
+            "instrument": "Alto Saxophone"
+          },
+          {
+            "id": 53,
+            "title": "Ascension (Edition II)",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 112,
+        "name": "Marion Brown",
+        "albums": [
+          {
+            "id": 59,
+            "title": "Ascension (Edition I)",
+            "instrument": "Alto Saxophone"
+          },
+          {
+            "id": 53,
+            "title": "Ascension (Edition II)",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "name": "McCoy Tyner",
+        "albums": [
+          {
+            "id": 59,
+            "title": "Ascension (Edition I)",
+            "instrument": "Piano"
+          },
+          {
+            "id": 53,
+            "title": "Ascension (Edition II)",
+            "instrument": "Piano"
+          },
+          {
+            "id": 55,
+            "title": "Meditations",
+            "instrument": "Piano"
+          },
+          {
+            "id": 54,
+            "title": "New Thing At Newport",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Nesuhi Ertegun",
+        "albums": [
+          {
+            "id": 58,
+            "title": "The Avant-Garde",
+            "instrument": "Supervised By"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Paul Chambers (3)",
+        "albums": [
+          {
+            "id": 57,
+            "title": "Tenor Madness",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 126,
+        "name": "Percy Heath",
+        "albums": [
+          {
+            "id": 58,
+            "title": "The Avant-Garde",
+            "instrument": "Double Bass"
+          }
+        ]
+      },
+      {
+        "id": 115,
+        "name": "Pharoah Sanders",
+        "albums": [
+          {
+            "id": 59,
+            "title": "Ascension (Edition I)",
+            "instrument": "Tenor Saxophone"
+          },
+          {
+            "id": 53,
+            "title": "Ascension (Edition II)",
+            "instrument": "Tenor Saxophone"
+          },
+          {
+            "id": 56,
+            "title": "Live At The Village Vanguard Again!",
+            "instrument": "Tenor Saxophone, Flute"
+          },
+          {
+            "id": 55,
+            "title": "Meditations",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 120,
+        "name": "Rashied Ali",
+        "albums": [
+          {
+            "id": 56,
+            "title": "Live At The Village Vanguard Again!",
+            "instrument": "Drums"
+          },
+          {
+            "id": 55,
+            "title": "Meditations",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Red Garland",
+        "albums": [
+          {
+            "id": 57,
+            "title": "Tenor Madness",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Rudy Van Gelder",
+        "albums": [
+          {
+            "id": 53,
+            "title": "Ascension (Edition II)",
+            "instrument": "Lacquer Cut By"
+          }
+        ]
+      },
+      {
+        "id": 123,
+        "name": "Sonny Rollins",
+        "albums": [
+          {
+            "id": 57,
+            "title": "Tenor Madness",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 122,
+        "name": "Sonny Rollins Quartet",
+        "albums": [
+          {
+            "id": 57,
+            "title": "Tenor Madness",
+            "instrument": "Performer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 1967,
+    "musicians": [
+      {
+        "id": 121,
+        "name": "Alice Coltrane",
+        "albums": [
+          {
+            "id": 61,
+            "title": "Expression",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Art Blakey",
+        "albums": [
+          {
+            "id": 63,
+            "title": "Monk's Music",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "name": "Coleman Hawkins",
+        "albums": [
+          {
+            "id": 63,
+            "title": "Monk's Music",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 129,
+        "name": "Donald Garrett",
+        "albums": [
+          {
+            "id": 60,
+            "title": "Kulu S\u00e9 Mama",
+            "instrument": "Bass, Bass Clarinet"
+          },
+          {
+            "id": 62,
+            "title": "Om",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "name": "Elvin Jones",
+        "albums": [
+          {
+            "id": 60,
+            "title": "Kulu S\u00e9 Mama",
+            "instrument": "Drums"
+          },
+          {
+            "id": 62,
+            "title": "Om",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 130,
+        "name": "Frank Butler",
+        "albums": [
+          {
+            "id": 60,
+            "title": "Kulu S\u00e9 Mama",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "name": "Gigi Gryce",
+        "albums": [
+          {
+            "id": 63,
+            "title": "Monk's Music",
+            "instrument": "Alto Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "name": "Jimmy Garrison",
+        "albums": [
+          {
+            "id": 61,
+            "title": "Expression",
+            "instrument": "Bass"
+          },
+          {
+            "id": 60,
+            "title": "Kulu S\u00e9 Mama",
+            "instrument": "Bass"
+          },
+          {
+            "id": 62,
+            "title": "Om",
+            "instrument": "Bass"
+          }
+        ]
+      },
+      {
+        "id": 133,
+        "name": "Joe Brazil",
+        "albums": [
+          {
+            "id": 62,
+            "title": "Om",
+            "instrument": "Flute"
+          }
+        ]
+      },
+      {
+        "id": 131,
+        "name": "Juno Lewis",
+        "albums": [
+          {
+            "id": 60,
+            "title": "Kulu S\u00e9 Mama",
+            "instrument": "Vocals, Percussion"
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "name": "McCoy Tyner",
+        "albums": [
+          {
+            "id": 60,
+            "title": "Kulu S\u00e9 Mama",
+            "instrument": "Piano"
+          },
+          {
+            "id": 62,
+            "title": "Om",
+            "instrument": "Piano"
+          }
+        ]
+      },
+      {
+        "id": 115,
+        "name": "Pharoah Sanders",
+        "albums": [
+          {
+            "id": 61,
+            "title": "Expression",
+            "instrument": "Piccolo Flute"
+          },
+          {
+            "id": 60,
+            "title": "Kulu S\u00e9 Mama",
+            "instrument": "Tenor Saxophone"
+          },
+          {
+            "id": 62,
+            "title": "Om",
+            "instrument": "Tenor Saxophone"
+          }
+        ]
+      },
+      {
+        "id": 120,
+        "name": "Rashied Ali",
+        "albums": [
+          {
+            "id": 61,
+            "title": "Expression",
+            "instrument": "Drums"
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "name": "Ray Copeland",
+        "albums": [
+          {
+            "id": 63,
+            "title": "Monk's Music",
+            "instrument": "Trumpet"
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "name": "Thelonious Monk",
+        "albums": [
+          {
+            "id": 63,
+            "title": "Monk's Music",
+            "instrument": "Performer"
+          }
+        ]
+      },
+      {
+        "id": 132,
+        "name": "Victor Kalin",
+        "albums": [
+          {
+            "id": 61,
+            "title": "Expression",
+            "instrument": "Painting"
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "name": "Wilbur Ware",
+        "albums": [
+          {
+            "id": 63,
+            "title": "Monk's Music",
+            "instrument": "Bass"
+          }
+        ]
+      }
+    ]
+  }
+]

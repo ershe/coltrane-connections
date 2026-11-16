@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo, useDeferredValue } from "react";
+import { useState, useEffect, useMemo, useDeferredValue, useRef } from "react";
 import { Disc3, X, Calendar, Search } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
 import { Input } from "@/components/ui/input";
@@ -23,7 +23,21 @@ export default function TimelinePage({ timelineData }: TimelinePageProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const deferredSearchQuery = useDeferredValue(searchQuery);
   const isStale = searchQuery !== deferredSearchQuery;
-  const [activeYear, setActiveYear] = useState<number | null>(null);
+  const searchBarRef = useRef<HTMLDivElement>(null);
+
+  // When user types in search while scrolled far down, smoothly bring search bar and top results into view
+  const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const nextVal = e.target.value;
+    setSearchQuery(nextVal);
+
+    if (nextVal.trim() && searchBarRef.current) {
+      const rect = searchBarRef.current.getBoundingClientRect();
+      // If the user has scrolled past the search bar
+      if (rect.top < 100) {
+        searchBarRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+    }
+  };
 
   // Pre-normalize dataset once so we never run .toLowerCase() repeatedly on keystrokes
   const indexedData: IndexedYear[] = useMemo(() => {
@@ -85,7 +99,6 @@ export default function TimelinePage({ timelineData }: TimelinePageProps) {
 
   // Smooth scroll handler for the floating year index
   const scrollToYear = (year: number) => {
-    setActiveYear(year);
     const element = document.getElementById(`year-section-${year}`);
     if (element) {
       element.scrollIntoView({ behavior: "smooth", block: "start" });
@@ -105,7 +118,6 @@ export default function TimelinePage({ timelineData }: TimelinePageProps) {
           <div className="flex flex-col gap-1">
             {allYears.map((year) => {
               const isMatch = visibleYears.has(year);
-              const isActive = activeYear === year;
 
               return (
                 <button
@@ -114,11 +126,9 @@ export default function TimelinePage({ timelineData }: TimelinePageProps) {
                   onClick={() => scrollToYear(year)}
                   disabled={!isMatch}
                   className={`text-xs px-2.5 py-1 rounded-md text-left font-mono transition-all cursor-pointer ${
-                    isActive
-                      ? "bg-primary text-primary-foreground font-bold shadow-sm"
-                      : isMatch
-                        ? "text-foreground hover:bg-muted hover:text-primary"
-                        : "text-muted-foreground/30 cursor-not-allowed line-through"
+                    isMatch
+                      ? "text-foreground hover:bg-muted hover:text-primary"
+                      : "text-muted-foreground/30 cursor-not-allowed line-through"
                   }`}>
                   {year}
                 </button>
@@ -129,16 +139,18 @@ export default function TimelinePage({ timelineData }: TimelinePageProps) {
       )}
 
       {/* Main Content Area */}
-      <div className="w-full max-w-4xl mx-auto space-y-8">
+      <div className="w-full max-w-4xl mx-auto space-y-8 min-h-[75vh]">
         {/* Search Bar */}
-        <div className="sticky top-20 z-30 bg-background/90 backdrop-blur-md p-4 rounded-xl border border-border shadow-sm">
+        <div
+          ref={searchBarRef}
+          className="sticky top-20 z-30 bg-background/90 backdrop-blur-md p-4 rounded-xl border border-border shadow-sm scroll-mt-24">
           <div className="relative flex items-center">
             <Search className="absolute left-3 w-4 h-4 text-muted-foreground pointer-events-none" />
             <Input
               type="text"
               placeholder="Search timeline by musician name..."
               value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
+              onChange={handleSearchChange}
               className="pl-9 pr-8 h-10 text-sm rounded-lg"
             />
             {searchQuery && (
@@ -164,10 +176,10 @@ export default function TimelinePage({ timelineData }: TimelinePageProps) {
 
         {/* Vertical Timeline Container with Streamlined Animations */}
         <div
-          className={`relative border-l-2 border-muted ml-3 sm:ml-4 space-y-12 transition-opacity duration-150 ${
+          className={`relative border-l-2 border-muted ml-3 sm:ml-4 space-y-12 transition-opacity duration-150 min-h-[400px] ${
             isStale ? "opacity-70" : "opacity-100"
           }`}>
-          <AnimatePresence mode="popLayout">
+          <AnimatePresence>
             {filteredTimeline.length > 0 ? (
               filteredTimeline.map((yearData) => {
                 const safeMusicians = yearData.musicians ?? [];
@@ -176,11 +188,10 @@ export default function TimelinePage({ timelineData }: TimelinePageProps) {
                   <motion.div
                     key={yearData.year}
                     id={`year-section-${yearData.year}`}
-                    layout="position"
-                    initial={{ opacity: 0, y: 12 }}
+                    initial={{ opacity: 0, y: 8 }}
                     animate={{ opacity: 1, y: 0 }}
-                    exit={{ opacity: 0, y: -12 }}
-                    transition={{ duration: 0.2 }}
+                    exit={{ opacity: 0 }}
+                    transition={{ duration: 0.15 }}
                     className="relative pl-8 scroll-mt-36">
                     <div className="absolute -left-4.25 top-0 bg-background border-2 border-primary rounded-full p-1">
                       <Calendar className="w-4 h-4 text-primary" />
