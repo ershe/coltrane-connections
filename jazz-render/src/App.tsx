@@ -3,7 +3,7 @@ import { ThemeProvider } from "./components/styles/theme-provider";
 import RootLayout from "./layouts/RootLayout";
 import About from "./pages/About";
 import TimelineController from "./controllers/TimelineController";
-import { Analytics } from "@vercel/analytics/next";
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   return (
