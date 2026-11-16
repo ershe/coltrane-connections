@@ -3,6 +3,7 @@ import { ThemeProvider } from "./components/styles/theme-provider";
 import RootLayout from "./layouts/RootLayout";
 import About from "./pages/About";
 import TimelineController from "./controllers/TimelineController";
+import { Analytics } from "@vercel/analytics/next";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           </Route>
           <Route path="*" element={<h1>404 Not Found</h1>} />
         </Routes>
+        <Analytics />
       </BrowserRouter>
     </ThemeProvider>
   );
