@@ -104,13 +104,13 @@ export default function TimelineController() {
   }
 
   return (
-    <main className="min-h-screen bg-background text-foreground p-4 md:p-8 lg:p-12">
+    <main className="min-h-screen bg-background text-foreground p-2 sm:p-4 md:p-8 lg:p-12">
       {/* Page Header */}
-      <header className="max-w-4xl mx-auto mb-10 border-b pb-6">
-        <h1 className="text-4xl font-extrabold tracking-tight mb-2">
+      <header className="max-w-4xl mx-auto mb-6 sm:mb-10 border-b pb-4 sm:pb-6">
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight mb-2">
           Coltrane Discography
         </h1>
-        <p className="text-lg text-muted-foreground">
+        <p className="text-sm sm:text-base md:text-lg text-muted-foreground">
           An interactive timeline of recording sessions (1949–1967)
         </p>
       </header>
