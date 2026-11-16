@@ -1,5 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "cd jazz-render && npm install",
   "buildCommand": "cd jazz-render && npm run build",
   "outputDirectory": "jazz-render/dist",
   "framework": "vite",
