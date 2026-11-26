@@ -31,6 +31,14 @@ interface DisposableResources {
   textures: Set<THREE.Texture>;
 }
 
+interface ChargeForce {
+  strength: (value: number) => ChargeForce;
+}
+
+interface LinkForce {
+  distance: (value: number) => LinkForce;
+}
+
 export default function MusicianNetworkGraph({
   graphData,
   selectedNodeId,
@@ -89,19 +97,13 @@ export default function MusicianNetworkGraph({
     const fg = graphRef.current;
     if (!fg) return;
 
-    const chargeForce = fg.d3Force("charge") as
-      | { strength: (value: number) => void }
+    const chargeForce = fg.d3Force("charge") as unknown as
+      | ChargeForce
       | undefined;
-    if (chargeForce) {
-      chargeForce.strength(-190);
-    }
+    chargeForce?.strength(-190);
 
-    const linkForce = fg.d3Force("link") as
-      | { distance: (value: number) => void }
-      | undefined;
-    if (linkForce) {
-      linkForce.distance(90);
-    }
+    const linkForce = fg.d3Force("link") as unknown as LinkForce | undefined;
+    linkForce?.distance(90);
   }, [graphData]);
 
   useEffect(() => {
