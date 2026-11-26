@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router";
 import { ThemeProvider } from "./components/styles/theme-provider";
 import RootLayout from "./layouts/RootLayout";
 import About from "./pages/About";
+import FreshProject from "./pages/FreshProject";
 import TimelineController from "./controllers/TimelineController";
 import { Analytics } from "@vercel/analytics/react";
 
@@ -12,7 +13,8 @@ function App() {
         <Routes>
           {/* The outer Route applies the Layout to all its children */}
           <Route element={<RootLayout />}>
-            <Route index element={<TimelineController />} />
+            <Route index element={<FreshProject />} />
+            <Route path="archive" element={<TimelineController />} />
             <Route path="timeline" element={<TimelineController />} />
             <Route path="about" element={<About />} />
           </Route>

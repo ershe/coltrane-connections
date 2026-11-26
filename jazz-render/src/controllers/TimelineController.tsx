@@ -1,6 +1,10 @@
 import { useEffect, useState } from "react";
 import TimelineView from "@/pages/TimelineView";
 import type { TimelineYear } from "@/types";
+import {
+  FALLBACK_TIMELINE_DATA,
+  fetchArchivedTimelineData,
+} from "@/projects/coltrane-archive/data/timelineService";
 
 export default function TimelineController() {
   const [timelineData, setTimelineData] = useState<TimelineYear[]>([]);
@@ -11,14 +15,7 @@ export default function TimelineController() {
     async function fetchTimelineData() {
       try {
         setIsLoading(true);
-        // Coltrane timeline API endpoint
-        const response = await fetch("/api/timeline");
-
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
-        }
-
-        const data: TimelineYear[] = await response.json();
+        const data = await fetchArchivedTimelineData();
         setTimelineData(data);
       } catch (err) {
         console.error("Failed to load timeline data:", err);
@@ -28,52 +25,7 @@ export default function TimelineController() {
 
         // --- FALLBACK MOCK DATA FOR UI TESTING ---
         // If your backend isn't running, it will gracefully fall back to this mock data
-        setTimelineData([
-          {
-            year: 1957,
-            musicians: [
-              {
-                id: 1,
-                name: "John Coltrane",
-                albums: [
-                  {
-                    id: 101,
-                    title: "Blue Train",
-                    instrument: "Tenor Saxophone",
-                  },
-                ],
-              },
-              {
-                id: 2,
-                name: "Lee Morgan",
-                albums: [
-                  { id: 101, title: "Blue Train", instrument: "Trumpet" },
-                ],
-              },
-            ],
-          },
-          {
-            year: 1959,
-            musicians: [
-              {
-                id: 1,
-                name: "John Coltrane",
-                albums: [
-                  {
-                    id: 102,
-                    title: "Giant Steps",
-                    instrument: "Tenor Saxophone",
-                  },
-                  {
-                    id: 103,
-                    title: "Kind of Blue (Miles Davis)",
-                    instrument: "Tenor Saxophone",
-                  },
-                ],
-              },
-            ],
-          },
-        ]);
+        setTimelineData(FALLBACK_TIMELINE_DATA);
       } finally {
         setIsLoading(false);
       }
