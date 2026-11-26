@@ -7,18 +7,23 @@ export type MusicianRole =
   | "Trombone"
   | "Other";
 
-export interface SessionMusicianCredit {
-  id: string;
+export interface RawNetworkMusician {
+  id: number;
   name: string;
-  role: MusicianRole;
-  instrument: string;
+  primary_instrument: string;
 }
 
-export interface SessionRecord {
-  id: string;
-  album: string;
-  year: number;
-  musicians: SessionMusicianCredit[];
+export interface RawNetworkRelationship {
+  session_id: number;
+  musician_id: number;
+  instrument: string;
+  role: string;
+  session_date: string | null;
+}
+
+export interface RawNetworkData {
+  musicians: RawNetworkMusician[];
+  relationships: RawNetworkRelationship[];
 }
 
 export interface MusicianNode {
@@ -41,8 +46,6 @@ export interface MusicianLink {
   source: string | MusicianNode;
   target: string | MusicianNode;
   weight: number;
-  albums: string[];
-  years: number[];
 }
 
 export interface MusicianGraphData {

@@ -120,14 +120,10 @@ export default function MusicianNetworkGraph({
         ? 7.5
         : Math.min(6.2, 3.2 + node.sessionCount * 0.75);
 
-      const geometry = new THREE.SphereGeometry(radius, 24, 24);
+      const geometry = new THREE.SphereGeometry(radius, 16, 16);
       const colorHex = ROLE_COLORS[node.role];
-      const material = new THREE.MeshStandardMaterial({
+      const material = new THREE.MeshBasicMaterial({
         color: colorHex,
-        emissive: colorHex,
-        emissiveIntensity: isSelected ? 0.65 : node.isColtrane ? 0.45 : 0.22,
-        roughness: 0.35,
-        metalness: 0.25,
       });
 
       resourcesRef.current.geometries.add(geometry);
@@ -136,22 +132,24 @@ export default function MusicianNetworkGraph({
       const sphere = new THREE.Mesh(geometry, material);
       group.add(sphere);
 
-      const label = new SpriteText(node.name);
-      label.color = isSelected || node.isColtrane ? "#f8fafc" : "#cbd5e1";
-      label.textHeight = node.isColtrane ? 4.2 : 3.2;
-      label.fontFace = "JetBrains Mono Variable, monospace";
-      label.backgroundColor = "rgba(15, 23, 42, 0.72)";
-      label.padding = 1.6;
-      label.borderRadius = 2;
-      label.position.set(0, radius + 5.5, 0);
+      if (isSelected || node.isColtrane || node.sessionCount >= 12) {
+        const label = new SpriteText(node.name);
+        label.color = isSelected || node.isColtrane ? "#f8fafc" : "#cbd5e1";
+        label.textHeight = node.isColtrane ? 4.5 : 3.2;
+        label.fontFace = "JetBrains Mono Variable, monospace";
+        label.backgroundColor = "rgba(15, 23, 42, 0.72)";
+        label.padding = 1.6;
+        label.borderRadius = 2;
+        label.position.set(0, radius + 5.5, 0);
 
-      const spriteMaterial = label.material as THREE.SpriteMaterial;
-      resourcesRef.current.materials.add(spriteMaterial);
-      if (spriteMaterial.map) {
-        resourcesRef.current.textures.add(spriteMaterial.map);
+        const spriteMaterial = label.material as THREE.SpriteMaterial;
+        resourcesRef.current.materials.add(spriteMaterial);
+        if (spriteMaterial.map) {
+          resourcesRef.current.textures.add(spriteMaterial.map);
+        }
+
+        group.add(label);
       }
-
-      group.add(label);
       return group;
     },
     [selectedNodeId],

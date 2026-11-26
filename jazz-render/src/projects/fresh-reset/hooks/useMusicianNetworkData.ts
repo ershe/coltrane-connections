@@ -3,78 +3,102 @@ import type {
   MusicianGraphData,
   MusicianLink,
   MusicianNode,
-  SessionRecord,
+  MusicianRole,
+  RawNetworkData,
 } from "../types/network";
 
-export function transformSessionsToGraph(
-  sessions: SessionRecord[],
+function mapInstrumentToRole(instrument: string): MusicianRole {
+  const lower = instrument.toLowerCase();
+  if (lower.includes("sax")) return "Saxophone";
+  if (lower.includes("trumpet") || lower.includes("cornet") || lower.includes("flugelhorn")) {
+    return "Trumpet";
+  }
+  if (lower.includes("piano") || lower.includes("organ") || lower.includes("key")) {
+    return "Piano";
+  }
+  if (lower.includes("bass")) return "Bass";
+  if (lower.includes("drum") || lower.includes("percussion")) return "Drums";
+  if (lower.includes("trombone")) return "Trombone";
+  return "Other";
+}
+
+export function transformNetworkJsonToGraph(
+  raw: RawNetworkData | null,
 ): MusicianGraphData {
+  if (!raw) {
+    return { nodes: [], links: [] };
+  }
+
   const nodeMap = new Map<string, MusicianNode>();
-  const linkMap = new Map<string, MusicianLink>();
+  for (const m of raw.musicians) {
+    const id = String(m.id);
+    nodeMap.set(id, {
+      id,
+      name: m.name,
+      role: mapInstrumentToRole(m.primary_instrument || ""),
+      instruments: m.primary_instrument ? [m.primary_instrument] : [],
+      sessionCount: 0,
+      albums: [],
+      isColtrane: m.name.toLowerCase() === "john coltrane",
+    });
+  }
 
-  for (const session of sessions) {
-    const credits = session.musicians;
+  const sessionsMap = new Map<number, string[]>();
+  for (const rel of raw.relationships) {
+    const musicianId = String(rel.musician_id);
+    const node = nodeMap.get(musicianId);
+    if (!node) continue;
 
-    for (const credit of credits) {
-      const existing = nodeMap.get(credit.id);
-      if (existing) {
-        existing.sessionCount += 1;
-        if (!existing.albums.includes(session.album)) {
-          existing.albums.push(session.album);
-        }
-        if (!existing.instruments.includes(credit.instrument)) {
-          existing.instruments.push(credit.instrument);
-        }
-      } else {
-        nodeMap.set(credit.id, {
-          id: credit.id,
-          name: credit.name,
-          role: credit.role,
-          instruments: [credit.instrument],
-          sessionCount: 1,
-          albums: [session.album],
-          isColtrane: credit.id === "coltrane",
-        });
-      }
+    node.sessionCount += 1;
+    if (rel.instrument && !node.instruments.includes(rel.instrument)) {
+      node.instruments.push(rel.instrument);
     }
 
-    for (let i = 0; i < credits.length; i++) {
-      for (let j = i + 1; j < credits.length; j++) {
-        const a = credits[i].id;
-        const b = credits[j].id;
+    const list = sessionsMap.get(rel.session_id);
+    if (list) {
+      if (!list.includes(musicianId)) {
+        list.push(musicianId);
+      }
+    } else {
+      sessionsMap.set(rel.session_id, [musicianId]);
+    }
+  }
+
+  const linkMap = new Map<string, MusicianLink>();
+  for (const musicianIds of sessionsMap.values()) {
+    for (let i = 0; i < musicianIds.length; i++) {
+      for (let j = i + 1; j < musicianIds.length; j++) {
+        const a = musicianIds[i];
+        const b = musicianIds[j];
         const [source, target] = a < b ? [a, b] : [b, a];
         const key = `${source}::${target}`;
 
-        const existingLink = linkMap.get(key);
-        if (existingLink) {
-          existingLink.weight += 1;
-          if (!existingLink.albums.includes(session.album)) {
-            existingLink.albums.push(session.album);
-          }
-          if (!existingLink.years.includes(session.year)) {
-            existingLink.years.push(session.year);
-          }
+        const existing = linkMap.get(key);
+        if (existing) {
+          existing.weight += 1;
         } else {
           linkMap.set(key, {
             source,
             target,
             weight: 1,
-            albums: [session.album],
-            years: [session.year],
           });
         }
       }
     }
   }
 
+  const connectedNodes = Array.from(nodeMap.values()).filter(
+    (n) => n.sessionCount > 0,
+  );
+
   return {
-    nodes: Array.from(nodeMap.values()),
+    nodes: connectedNodes,
     links: Array.from(linkMap.values()),
   };
 }
 
 export function useMusicianNetworkData(
-  sessions: SessionRecord[],
+  raw: RawNetworkData | null,
 ): MusicianGraphData {
-  return useMemo(() => transformSessionsToGraph(sessions), [sessions]);
+  return useMemo(() => transformNetworkJsonToGraph(raw), [raw]);
 }
