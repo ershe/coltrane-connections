@@ -5,6 +5,7 @@ import About from "./pages/About";
 import FreshProject from "./pages/FreshProject";
 import TimelineController from "./controllers/TimelineController";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <Route path="*" element={<h1>404 Not Found</h1>} />
         </Routes>
         <Analytics />
+        <SpeedInsights />
       </BrowserRouter>
     </ThemeProvider>
   );
